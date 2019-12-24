@@ -1,0 +1,374 @@
+{
+  "streams": [
+    {
+      "title": "cats",
+      "description": "I eat kittens!!!!!",
+      "id": 1
+    },
+    {
+      "title": "cats",
+      "description": "I eat cats",
+      "id": 2
+    },
+    {
+      "title": "another stream",
+      "description": "Here is another stream!!! yumm dennys",
+      "id": 3
+    },
+    {
+      "title": "trump",
+      "description": "bubba gummbo shrimp",
+      "id": 4
+    },
+    {
+      "title": "rumper",
+      "description": "bubba gummbo shrimp",
+      "id": 5
+    },
+    {
+      "title": "revvsdo",
+      "description": "bubba gummbo shrimp",
+      "id": 6
+    },
+    {
+      "title": "Tents",
+      "description": "airplanessssssrfgb",
+      "userId": "118283347146290047623",
+      "id": 7
+    },
+    {
+      "title": "blah blah yoiyo",
+      "description": "bleh blem blue",
+      "userId": "116967979742827624142",
+      "id": 10
+    },
+    {
+      "title": "fdfghj",
+      "description": "waertgdthfyjguh",
+      "userId": "116967979742827624142",
+      "id": 11
+    },
+    {
+      "title": "fdfghj",
+      "description": "waertgdthfyjguh",
+      "userId": "116967979742827624142",
+      "id": 12
+    },
+    {
+      "title": "fdfghj",
+      "description": "waertgdthfyjguh",
+      "userId": "116967979742827624142",
+      "id": 13
+    },
+    {
+      "title": "sdfgh",
+      "description": "sdfgh",
+      "userId": "116967979742827624142",
+      "id": 14
+    },
+    {
+      "title": "sdfg",
+      "description": "wedrfgh",
+      "userId": "116967979742827624142",
+      "id": 15
+    },
+    {
+      "title": "cat",
+      "description": "cat",
+      "userId": "116967979742827624142",
+      "id": 16
+    },
+    {
+      "title": "dog",
+      "description": "dog",
+      "userId": "116967979742827624142",
+      "id": 17
+    },
+    {
+      "title": "dog",
+      "description": "dog",
+      "userId": "116967979742827624142",
+      "id": 18
+    }
+  ], 
+  "fakeData":[
+    {
+    "type": "H",
+    "description": "HEATING/FURNACE",
+    "make": "HH GREG",
+    "model": "funrace45yg",
+    "btu rating": 0
+  },
+  {
+    "type": "R",
+    "description": "RANGE/COOKSTOVE",
+    "make": "trane",
+    "model": "e32rewp8dpox",
+    "btu rating": 0
+  },
+  {
+    "type": "W",
+    "description": "TRADITIONAL WATER HEATER",
+    "make": "Frys",
+    "model": "French Fry",
+    "btu rating": 0
+  },
+  {
+    "type": "W",
+    "description": "TRADITIONAL WATER HEATER",
+    "make": "Frys",
+    "model": "French Fry",
+    "btu rating": 0
+  }
+  ],
+  "HistoryInquiry":
+  [
+    {
+      "Date": "01/12/19",
+      "Drvr": 0,
+      "Jrnl": 23170,
+      "Ticket#": 70229,
+      "Code": 22,
+      "Dept": 87,
+      "Posting Reference": "CREDIT CARD PAYMENT",
+      "Quanity": 0.00,
+      "Gallons": "",
+      "Unit Price": "",
+      "Line Amt": "",
+      "Sale Tax": "",
+      "Debit Amt": "",
+      "Credit Amt": "(336.54)",
+      "Balance": "$0.00"
+    },
+    {
+      "Date": "03/28/19",
+      "Drvr": 0,
+      "Jrnl": 23176,
+      "Ticket#": 70186,
+      "Code": 207,
+      "Dept": 206,
+      "Posting Reference": "ADMIN FEE",
+      "Quanity": 1.00,
+      "Gallons": "0.00",
+      "Unit Price": "0.00",
+      "Line Amt": "0.00",
+      "Sale Tax": "0.00",
+      "Debit Amt": "0.00",
+      "Credit Amt": "",
+      "Balance": "$336.54"
+    },
+    {
+      "Date": "01/12/19",
+      "Drvr": 0,
+      "Jrnl": 23170,
+      "Ticket#": 70229,
+      "Code": 22,
+      "Dept": 87,
+      "Posting Reference": "RESIDENTIAL GAS ENERGY",
+      "Quanity": 0.00,
+      "Gallons": "",
+      "Unit Price": "",
+      "Line Amt": "",
+      "Sale Tax": "",
+      "Debit Amt": "",
+      "Credit Amt": "(336.54)",
+      "Balance": "$0.00"
+    },
+    {
+      "Date": "01/12/19",
+      "Drvr": 0,
+      "Jrnl": 23170,
+      "Ticket#": 70229,
+      "Code": 22,
+      "Dept": 87,
+      "Posting Reference": "FINANCE CHARGE",
+      "Quanity": 0.00,
+      "Gallons": "",
+      "Unit Price": "",
+      "Line Amt": "",
+      "Sale Tax": "",
+      "Debit Amt": "",
+      "Credit Amt": "(336.54)",
+      "Balance": "$0.00"
+    },
+    {
+      "Date": "01/12/19",
+      "Drvr": 0,
+      "Jrnl": 23170,
+      "Ticket#": 70229,
+      "Code": 22,
+      "Dept": 87,
+      "Posting Reference": "CREDIT CARD PAYMENT",
+      "Quanity": 0.00,
+      "Gallons": "",
+      "Unit Price": "",
+      "Line Amt": "",
+      "Sale Tax": "",
+      "Debit Amt": "",
+      "Credit Amt": "(336.54)",
+      "Balance": "$0.00"
+    }
+  ],
+  "TankDetails":
+  [
+    {
+      "Tank Serial Number": "381346",
+      "Tank RRN": "6,778",
+      "Type": "P",
+      "A/I": "A",
+      "Size": 330,
+      "Tank Name": ""
+    },
+    {
+      "Tank Serial Number": "632495",
+      "Tank RRN": "8,387",
+      "Type": "P",
+      "A/I": "I",
+      "Size": 860,
+      "Tank Name": ""
+    },
+    {
+      "Tank Serial Number": "381346",
+      "Tank RRN": "6,778",
+      "Type": "P",
+      "A/I": "A",
+      "Size": 409,
+      "Tank Name": ""
+    }
+  ],"TankReadings":
+  [
+    {
+      "Delivery Date": "12/13/17",
+      "Old DD Reading": 0,
+      "New DD Reading": 848,
+      "Glns Deliv": 101.00,
+      "Prev Glns": 0,
+      "Est Glns Left": 0.00,
+      "Est % Left": 0,
+      "Start %": 71,
+      "End %": 80,
+      "Curr KFactor": 0.00,
+      "Calc K-Factor": "V  0.00"
+    },
+    {
+      "Delivery Date": "04/16/17",
+      "Old DD Reading": 0,
+      "New DD Reading": 700,
+      "Glns Deliv": 101.00,
+      "Prev Glns": 0,
+      "Est Glns Left": 0.00,
+      "Est % Left": 0,
+      "Start %": 60,
+      "End %": 80,
+      "Curr KFactor": 0.00,
+      "Calc K-Factor": "V  0.00"
+    }
+  ],
+  "TicklerInformation":
+  [
+    {
+      "Div": 1,
+      "Cust": 199072,
+      "Tank Serial #": "D34T56J7",
+      "Loc": "37",
+      "Type": "Memo",
+      "Req By": "",
+      "Due Date": "00/00/00",
+      "Priority": 0,
+      "Completed": "Y",
+      "Sticky Note": "N",
+      "Partial Msg": "3/13 mike leak & soap tested"
+    },
+    {
+      "Div": 1,
+      "Cust": 100972,
+      "Tank Serial #": "FREGTYJ775",
+      "Loc": "83",
+      "Type": "Memo",
+      "Req By": "",
+      "Due Date": "00/00/00",
+      "Priority": 0,
+      "Completed": "Y",
+      "Sticky Note": "N",
+      "Partial Msg": "06/12 Kevin picked up 1-420 S/N A248639"
+    },
+    {
+      "Div": 1,
+      "Cust": 199072,
+      "Tank Serial #": "D34G65JYUY",
+      "Loc": "26",
+      "Type": "Memo",
+      "Req By": "",
+      "Due Date": "00/00/00",
+      "Priority": 0,
+      "Completed": "Y",
+      "Sticky Note": "N",
+      "Partial Msg": "Called William, he paid off balance"
+    },
+    {
+      "Div": 1,
+      "Cust": 199072,
+      "Tank Serial #": "CEWG667VWQ",
+      "Loc": "01",
+      "Type": "Memo",
+      "Req By": "",
+      "Due Date": "00/00/00",
+      "Priority": 0,
+      "Completed": "Y",
+      "Sticky Note": "N",
+      "Partial Msg": "Left msg with mechanic"
+    },
+    {
+      "Div": 1,
+      "Cust": 199072,
+      "Tank Serial #": "F43GHRMER",
+      "Loc": "15",
+      "Type": "Memo",
+      "Req By": "",
+      "Due Date": "00/00/00",
+      "Priority": 0,
+      "Completed": "Y",
+      "Sticky Note": "N",
+      "Partial Msg": "01/31 KEvin cleaned and serviced wall heater"
+    },
+    {
+      "Div": 1,
+      "Cust": 199072,
+      "Tank Serial #": "23534UYHER",
+      "Loc": "95",
+      "Type": "Memo",
+      "Req By": "",
+      "Due Date": "00/00/00",
+      "Priority": 0,
+      "Completed": "Y",
+      "Sticky Note": "N",
+      "Partial Msg": "3/13 mike leak & soap tested"
+    },
+    {
+      "Div": 1,
+      "Cust": 199072,
+      "Tank Serial #": "24E32TERD",
+      "Loc": "83",
+      "Type": "Memo",
+      "Req By": "",
+      "Due Date": "00/00/00",
+      "Priority": 0,
+      "Completed": "Y",
+      "Sticky Note": "N",
+      "Partial Msg": "Customer called and paid balance"
+    },
+    {
+      "Div": 1,
+      "Cust": 199072,
+      "Tank Serial #": "3R34YRTRF",
+      "Loc": "34",
+      "Type": "Memo",
+      "Req By": "",
+      "Due Date": "00/00/00",
+      "Priority": 0,
+      "Completed": "Y",
+      "Sticky Note": "N",
+      "Partial Msg": "3/13 mike leak & soap tested"
+    }
+  ]
+}

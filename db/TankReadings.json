@@ -1,6 +1,4 @@
-{
-    "TankReadings":
-    [
+[
       {
         "Delivery Date": "12/13/17",
         "Old DD Reading": 0,
@@ -28,4 +26,3 @@
         "Calc K-Factor": "V  0.00"
       }
     ]
-}

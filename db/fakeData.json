@@ -1,5 +1,4 @@
-{
-    "fakeData":[
+[
     {
     "type": "H",
     "description": "HEATING/FURNACE",
@@ -29,4 +28,3 @@
     "btu rating": 0
   }
   ]
-}

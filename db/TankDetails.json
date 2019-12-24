@@ -1,6 +1,4 @@
-{
-    "TankDetails":
-    [
+[
       {
         "Tank Serial Number": "381346",
         "Tank RRN": "6,778",
@@ -26,4 +24,3 @@
         "Tank Name": ""
       }
     ]
-}

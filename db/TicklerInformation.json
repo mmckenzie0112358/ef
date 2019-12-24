@@ -1,0 +1,109 @@
+{
+    "TicklerInformation":
+    [
+      {
+        "Div": 1,
+        "Cust": 199072,
+        "Tank Serial #": "D34T56J7",
+        "Loc": "37",
+        "Type": "Memo",
+        "Req By": "",
+        "Due Date": "00/00/00",
+        "Priority": 0,
+        "Completed": "Y",
+        "Sticky Note": "N",
+        "Partial Msg": "3/13 mike leak & soap tested"
+      },
+      {
+        "Div": 1,
+        "Cust": 100972,
+        "Tank Serial #": "FREGTYJ775",
+        "Loc": "83",
+        "Type": "Memo",
+        "Req By": "",
+        "Due Date": "00/00/00",
+        "Priority": 0,
+        "Completed": "Y",
+        "Sticky Note": "N",
+        "Partial Msg": "06/12 Kevin picked up 1-420 S/N A248639"
+      },
+      {
+        "Div": 1,
+        "Cust": 199072,
+        "Tank Serial #": "D34G65JYUY",
+        "Loc": "26",
+        "Type": "Memo",
+        "Req By": "",
+        "Due Date": "00/00/00",
+        "Priority": 0,
+        "Completed": "Y",
+        "Sticky Note": "N",
+        "Partial Msg": "Called William, he paid off balance"
+      },
+      {
+        "Div": 1,
+        "Cust": 199072,
+        "Tank Serial #": "CEWG667VWQ",
+        "Loc": "01",
+        "Type": "Memo",
+        "Req By": "",
+        "Due Date": "00/00/00",
+        "Priority": 0,
+        "Completed": "Y",
+        "Sticky Note": "N",
+        "Partial Msg": "Left msg with mechanic"
+      },
+      {
+        "Div": 1,
+        "Cust": 199072,
+        "Tank Serial #": "F43GHRMER",
+        "Loc": "15",
+        "Type": "Memo",
+        "Req By": "",
+        "Due Date": "00/00/00",
+        "Priority": 0,
+        "Completed": "Y",
+        "Sticky Note": "N",
+        "Partial Msg": "01/31 KEvin cleaned and serviced wall heater"
+      },
+      {
+        "Div": 1,
+        "Cust": 199072,
+        "Tank Serial #": "23534UYHER",
+        "Loc": "95",
+        "Type": "Memo",
+        "Req By": "",
+        "Due Date": "00/00/00",
+        "Priority": 0,
+        "Completed": "Y",
+        "Sticky Note": "N",
+        "Partial Msg": "3/13 mike leak & soap tested"
+      },
+      {
+        "Div": 1,
+        "Cust": 199072,
+        "Tank Serial #": "24E32TERD",
+        "Loc": "83",
+        "Type": "Memo",
+        "Req By": "",
+        "Due Date": "00/00/00",
+        "Priority": 0,
+        "Completed": "Y",
+        "Sticky Note": "N",
+        "Partial Msg": "Customer called and paid balance"
+      },
+      {
+        "Div": 1,
+        "Cust": 199072,
+        "Tank Serial #": "3R34YRTRF",
+        "Loc": "34",
+        "Type": "Memo",
+        "Req By": "",
+        "Due Date": "00/00/00",
+        "Priority": 0,
+        "Completed": "Y",
+        "Sticky Note": "N",
+        "Partial Msg": "3/13 mike leak & soap tested"
+      }
+    ]
+  }

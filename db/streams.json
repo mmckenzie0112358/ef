@@ -1,0 +1,94 @@
+{
+    "streams": [
+    {
+      "title": "cats",
+      "description": "I eat kittens!!!!!",
+      "id": 1
+    },
+    {
+      "title": "cats",
+      "description": "I eat cats",
+      "id": 2
+    },
+    {
+      "title": "another stream",
+      "description": "Here is another stream!!! yumm dennys",
+      "id": 3
+    },
+    {
+      "title": "trump",
+      "description": "bubba gummbo shrimp",
+      "id": 4
+    },
+    {
+      "title": "rumper",
+      "description": "bubba gummbo shrimp",
+      "id": 5
+    },
+    {
+      "title": "revvsdo",
+      "description": "bubba gummbo shrimp",
+      "id": 6
+    },
+    {
+      "title": "Tents",
+      "description": "airplanessssssrfgb",
+      "userId": "118283347146290047623",
+      "id": 7
+    },
+    {
+      "title": "blah blah yoiyo",
+      "description": "bleh blem blue",
+      "userId": "116967979742827624142",
+      "id": 10
+    },
+    {
+      "title": "fdfghj",
+      "description": "waertgdthfyjguh",
+      "userId": "116967979742827624142",
+      "id": 11
+    },
+    {
+      "title": "fdfghj",
+      "description": "waertgdthfyjguh",
+      "userId": "116967979742827624142",
+      "id": 12
+    },
+    {
+      "title": "fdfghj",
+      "description": "waertgdthfyjguh",
+      "userId": "116967979742827624142",
+      "id": 13
+    },
+    {
+      "title": "sdfgh",
+      "description": "sdfgh",
+      "userId": "116967979742827624142",
+      "id": 14
+    },
+    {
+      "title": "sdfg",
+      "description": "wedrfgh",
+      "userId": "116967979742827624142",
+      "id": 15
+    },
+    {
+      "title": "cat",
+      "description": "cat",
+      "userId": "116967979742827624142",
+      "id": 16
+    },
+    {
+      "title": "dog",
+      "description": "dog",
+      "userId": "116967979742827624142",
+      "id": 17
+    },
+    {
+      "title": "dog",
+      "description": "dog",
+      "userId": "116967979742827624142",
+      "id": 18
+    }
+]
+}

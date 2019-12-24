@@ -1,0 +1,32 @@
+{
+    "fakeData":[
+    {
+    "type": "H",
+    "description": "HEATING/FURNACE",
+    "make": "HH GREG",
+    "model": "funrace45yg",
+    "btu rating": 0
+  },
+  {
+    "type": "R",
+    "description": "RANGE/COOKSTOVE",
+    "make": "trane",
+    "model": "e32rewp8dpox",
+    "btu rating": 0
+  },
+  {
+    "type": "W",
+    "description": "TRADITIONAL WATER HEATER",
+    "make": "Frys",
+    "model": "French Fry",
+    "btu rating": 0
+  },
+  {
+    "type": "W",
+    "description": "TRADITIONAL WATER HEATER",
+    "make": "Frys",
+    "model": "French Fry",
+    "btu rating": 0
+  }
+  ]
+}

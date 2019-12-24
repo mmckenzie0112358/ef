@@ -1,0 +1,31 @@
+{
+    "TankReadings":
+    [
+      {
+        "Delivery Date": "12/13/17",
+        "Old DD Reading": 0,
+        "New DD Reading": 848,
+        "Glns Deliv": 101.00,
+        "Prev Glns": 0,
+        "Est Glns Left": 0.00,
+        "Est % Left": 0,
+        "Start %": 71,
+        "End %": 80,
+        "Curr KFactor": 0.00,
+        "Calc K-Factor": "V  0.00"
+      },
+      {
+        "Delivery Date": "04/16/17",
+        "Old DD Reading": 0,
+        "New DD Reading": 700,
+        "Glns Deliv": 101.00,
+        "Prev Glns": 0,
+        "Est Glns Left": 0.00,
+        "Est % Left": 0,
+        "Start %": 60,
+        "End %": 80,
+        "Curr KFactor": 0.00,
+        "Calc K-Factor": "V  0.00"
+      }
+    ]
+}

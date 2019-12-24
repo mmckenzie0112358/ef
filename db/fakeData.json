@@ -6,15 +6,14 @@
     "Model": "funrace45yg",
     "BTU Rating": 0,
     "SerialNumber": "S5F-7FG78JKO543D-GFJH0",
-    "Purchase Date": "00/00/00",
+    "PurchaseDate": "00/00/00",
     "Begin Service Contract": "00/00/00",
-    "Tied To Tank": " ",
-    "Sold By": "Ryan Mahon",
-    "Service Contract Type": 2,
+    "TiedToTank": " ",
+    "SoldBy": "Ryan Mahon",
+    "ServiceContractType": 2,
     "End Service Contract": "00/00/00",
-    "Scheduled Service Month": 0,
+    "ScheduledServiceMonth": 0,
     "Comments": "N/A"
-
   },
   {
     "Type": "R",
@@ -22,7 +21,15 @@
     "Make": "trane",
     "Model": "e32rewp8dpox",
     "BTU Rating": 0,
-    "SerialNumber": "D4G3-DEKWJFBVS-21332R"
+    "SerialNumber": "D4G3-DEKWJFBVS-21332R",
+    "PurchaseDate": "00/00/00",
+    "Begin Service Contract": "00/00/00",
+    "TiedToTank": " ",
+    "SoldBy": "Ryan Mahon",
+    "ServiceContractType": 2,
+    "End Service Contract": "00/00/00",
+    "ScheduledServiceMonth": 0,
+    "Comments": "N/A"
   },
   {
     "Type": "W",
@@ -30,7 +37,15 @@
     "Make": "Frys",
     "Model": "French Fry",
     "BTU Rating": 0,
-    "SerialNumber": "3EDJ-32IOCNI-DKKW4"
+    "SerialNumber": "3EDJ-32IOCNI-DKKW4",
+    "PurchaseDate": "00/00/00",
+    "Begin Service Contract": "00/00/00",
+    "TiedToTank": " ",
+    "SoldBy": "Ryan Mahon",
+    "ServiceContractType": 2,
+    "End Service Contract": "00/00/00",
+    "ScheduledServiceMonth": 0,
+    "Comments": "N/A"
   },
   {
     "Type": "W",
@@ -38,6 +53,14 @@
     "Make": "Frys",
     "Model": "French Fry",
     "BTU Rating": 0,
-    "SerialNumber": "32R3-WAFCED23C21-1E2DA"
+    "SerialNumber": "32R3-WAFCED23C21-1E2DA",
+    "PurchaseDate": "00/00/00",
+    "Begin Service Contract": "00/00/00",
+    "TiedToTank": " ",
+    "SoldBy": "Ryan Mahon",
+    "ServiceContractType": 2,
+    "End Service Contract": "00/00/00",
+    "ScheduledServiceMonth": 0,
+    "Comments": "N/A"
   }
   ]

@@ -7,7 +7,7 @@
     "BTU Rating": 0,
     "SerialNumber": "S5F-7FG78JKO543D-GFJH0",
     "PurchaseDate": "00/00/00",
-    "Begin Service Contract": "00/00/00",
+    "BeginServiceContract": "00/00/00",
     "TiedToTank": " ",
     "SoldBy": "Ryan Mahon",
     "ServiceContractType": 2,
@@ -27,7 +27,7 @@
     "TiedToTank": " ",
     "SoldBy": "Ryan Mahon",
     "ServiceContractType": 2,
-    "End Service Contract": "00/00/00",
+    "EndServiceContract": "00/00/00",
     "ScheduledServiceMonth": 0,
     "Comments": "N/A"
   },

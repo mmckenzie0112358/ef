@@ -1,5 +1,5 @@
 [
-    {
+  {
     "Type": "H",
     "Description": "HEATING/FURNACE",
     "Make": "HH GREG",
@@ -62,4 +62,4 @@
     "ScheduledServiceMonth": 0,
     "Comments": "N/A"
   }
-  ]
+]

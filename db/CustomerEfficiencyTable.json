@@ -5,7 +5,9 @@
     "Type": "P",
     "A/I": "A",
     "Size": 330,
-    "Tank Name": ""
+    "Tank Name": "",
+    "Total Tank Capacity": 500,
+    "Tank Capacity": 500
   },
   {
     "Tank Serial Number": "632495",
@@ -13,7 +15,9 @@
     "Type": "P",
     "A/I": "I",
     "Size": 860,
-    "Tank Name": ""
+    "Tank Name": "",
+    "Total Tank Capacity": 500,
+    "Tank Capacity": 500
   },
   {
     "Tank Serial Number": "381346",
@@ -21,6 +25,8 @@
     "Type": "P",
     "A/I": "A",
     "Size": 409,
-    "Tank Name": ""
+    "Tank Name": "",
+    "Total Tank Capacity": 500,
+    "Tank Capacity": 500
   }
 ]

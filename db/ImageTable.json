@@ -1,11 +1,11 @@
 [
   {
     "key": 1,
-    "photoId": "464 CST 101642",
-    "photoType": "Gas Check",
-    "photoName": "Customer 101642",
-    "attachedBy": "Alexis",
-    "attachedDate": "10/11/18",
-    "attachedTime": "08:11"
+    "PhotoID/Module Sequence/ID": "464 CST 101642",
+    "Photo Type/Photo Comment": "Gas Check",
+    "Photo Title": "Customer 101642",
+    "Attached By": "Alexis",
+    "Attached Date": "10/11/18",
+    "Attached Time": "08:11"
   }
 ]

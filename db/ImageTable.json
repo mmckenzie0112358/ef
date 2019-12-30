@@ -1,6 +1,5 @@
 [
   {
-    "key": 1,
     "PhotoID/Module Sequence/ID": "464 CST 101642",
     "Photo Type/Photo Comment": "Gas Check",
     "Photo Title": "Customer 101642",
@@ -9,7 +8,6 @@
     "Attached Time": "08:11"
   },
   {
-    "key": 2,
     "PhotoID/Module Sequence/ID": "464 CST 101642",
     "Photo Type/Photo Comment": "Contract",
     "Photo Title": "Customer 101642",
@@ -18,7 +16,6 @@
     "Attached Time": "08:23"
   },
   {
-    "key": 3,
     "PhotoID/Module Sequence/ID": "464 CST 101642",
     "Photo Type/Photo Comment": "Resale Certificate",
     "Photo Title": "Customer 101642",
@@ -27,7 +24,6 @@
     "Attached Time": "11:11"
   },
   {
-    "key": 4,
     "PhotoID/Module Sequence/ID": "464 CST 101642",
     "Photo Type/Photo Comment": "Waiver",
     "Photo Title": "Customer 101642",

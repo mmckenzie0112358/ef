@@ -53,7 +53,9 @@
     "PermitNo": 1,
     "HoursOnJob": 5,
     "Location": 1,
-    "CalendarSchedulingRRN": 2
+    "CalendarSchedulingRRN": 2,
+    "StatusDesc": "SCHEDULED",
+    "WorkOrderDesc": "TANK EXCHG"
   },
   {
     "Division": 1,
@@ -109,7 +111,9 @@
     "PermitNo": 1,
     "HoursOnJob": 2,
     "Location": 1,
-    "CalendarSchedulingRRN": 2
+    "CalendarSchedulingRRN": 2,
+    "StatusDesc": "RESCHEDULED",
+    "WorkOrderDesc": "PAINT TANK"
   },
   {
     "Division": 1,
@@ -165,6 +169,8 @@
     "PermitNo": 1,
     "HoursOnJob": 2,
     "Location": 1,
-    "CalendarSchedulingRRN": 2
+    "CalendarSchedulingRRN": 2,
+    "StatusDesc": "RESCHEDULED",
+    "WorkOrderDesc": "PAINT TANK"
   }
 ]

@@ -1,182 +1,182 @@
 [
   {
     "month": "Jan",
-    "city": "01/18-12/18",
+    "date": "01/18-12/18",
     "temperature": "7"
   },
   {
     "month": "Jan",
-    "city": "01/19-12/19",
+    "date": "01/19-12/19",
     "temperature": "3.9"
   },
   {
     "month": "Jan",
-    "city": "01/17-12/17",
+    "date": "01/17-12/17",
     "temperature": "4"
   },
   {
     "month": "Feb",
-    "city": "01/18-12/18",
+    "date": "01/18-12/18",
     "temperature": "6.9"
   },
   {
     "month": "Feb",
-    "city": "01/17-12/17",
+    "date": "01/17-12/17",
     "temperature": "5"
   },
   {
     "month": "Feb",
-    "city": "01/19-12/19",
+    "date": "01/19-12/19",
     "temperature": "4.2"
   },
   {
     "month": "Mar",
-    "city": "01/18-12/18",
+    "date": "01/18-12/18",
     "temperature": "9.5"
   },
   {
     "month": "Mar",
-    "city": "01/17-12/17",
+    "date": "01/17-12/17",
     "temperature": "6.7"
   },
   {
     "month": "Mar",
-    "city": "01/19-12/19",
+    "date": "01/19-12/19",
     "temperature": "5.7"
   },
   {
     "month": "Apr",
-    "city": "01/18-12/18",
+    "date": "01/18-12/18",
     "temperature": "14.5"
   },
   {
     "month": "Apr",
-    "city": "01/17-12/17",
+    "date": "01/17-12/17",
     "temperature": "17"
   },
   {
     "month": "Apr",
-    "city": "01/19-12/19",
+    "date": "01/19-12/19",
     "temperature": "8.5"
   },
   {
     "month": "May",
-    "city": "01/18-12/18",
+    "date": "01/18-12/18",
     "temperature": "18.4"
   },
   {
     "month": "May",
-    "city": "01/17-12/17",
+    "date": "01/17-12/17",
     "temperature": "20"
   },
   {
     "month": "May",
-    "city": "01/19-12/19",
+    "date": "01/19-12/19",
     "temperature": "11.9"
   },
   {
     "month": "Jun",
-    "city": "01/18-12/18",
+    "date": "01/18-12/18",
     "temperature": "21.5"
   },
   {
     "month": "Jun",
-    "city": "01/17-12/17",
+    "date": "01/17-12/17",
     "temperature": "23"
   },
   {
     "month": "Jun",
-    "city": "01/19-12/19",
+    "date": "01/19-12/19",
     "temperature": "15.2"
   },
   {
     "month": "Jul",
-    "city": "01/18-12/18",
+    "date": "01/18-12/18",
     "temperature": "25.2"
   },
   {
     "month": "Jul",
-    "city": "01/17-12/17",
+    "date": "01/17-12/17",
     "temperature": "27"
   },
   {
     "month": "Jul",
-    "city": "01/19-12/19",
+    "date": "01/19-12/19",
     "temperature": "17"
   },
   {
     "month": "Aug",
-    "city": "01/18-12/18",
+    "date": "01/18-12/18",
     "temperature": "26.5"
   },
   {
     "month": "Aug",
-    "city": "01/17-12/17",
+    "date": "01/17-12/17",
     "temperature": "28.5"
   },
   {
     "month": "Aug",
-    "city": "01/19-12/19",
+    "date": "01/19-12/19",
     "temperature": "16.6"
   },
   {
     "month": "Sep",
-    "city": "01/18-12/18",
+    "date": "01/18-12/18",
     "temperature": "23.3"
   },
   {
     "month": "Sep",
-    "city": "01/17-12/17",
+    "date": "01/17-12/17",
     "temperature": "27.3"
   },
   {
     "month": "Sep",
-    "city": "01/19-12/19",
+    "date": "01/19-12/19",
     "temperature": "14.2"
   },
   {
     "month": "Oct",
-    "city": "01/18-12/18",
+    "date": "01/18-12/18",
     "temperature": "18.3"
   },
   {
     "month": "Oct",
-    "city": "01/17-12/17",
+    "date": "01/17-12/17",
     "temperature": "27"
   },
   {
     "month": "Oct",
-    "city": "01/19-12/19",
+    "date": "01/19-12/19",
     "temperature": "10.3"
   },
   {
     "month": "Nov",
-    "city": "01/18-12/18",
+    "date": "01/18-12/18",
     "temperature": "13.9"
   },
   {
     "month": "Nov",
-    "city": "01/17-12/17",
+    "date": "01/17-12/17",
     "temperature": "20"
   },
   {
     "month": "Nov",
-    "city": "01/19-12/19",
+    "date": "01/19-12/19",
     "temperature": "6.6"
   },
   {
     "month": "Dec",
-    "city": "01/18-12/18",
+    "date": "01/18-12/18",
     "temperature": "9.6"
   },
   {
     "month": "Dec",
-    "city": "01/17-12/17",
+    "date": "01/17-12/17",
     "temperature": "15"
   },
   {
     "month": "Dec",
-    "city": "01/19-12/19",
+    "date": "01/19-12/19",
     "temperature": "4.8"
   }
 ]

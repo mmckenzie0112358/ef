@@ -22,7 +22,10 @@
     "PriorYearGallons": 0.0,
     "PriorYearSalesTax": 0.0,
     "PriorYearPrice": 0.0,
-    "Comment_": ""
+    "Comment_": "",
+    "CentsDown": 0.25,
+    "PrepaidBalance": 25.0,
+    "DepartmentPrepaid": 1
   },
   {
     "DivisionNumber": 1,
@@ -47,7 +50,10 @@
     "PriorYearGallons": 0.0,
     "PriorYearSalesTax": 0.0,
     "PriorYearPrice": 0.0,
-    "Comment_": ""
+    "Comment_": "",
+    "CentsDown": 0.0,
+    "PrepaidBalance": 0.0,
+    "DepartmentPrepaid": 0
   },
   {
     "DivisionNumber": 1,
@@ -72,6 +78,9 @@
     "PriorYearGallons": 0.0,
     "PriorYearSalesTax": 0.0,
     "PriorYearPrice": 0.0,
-    "Comment_": "contract is for 500 gallons 246.2 del before EF"
+    "Comment_": "contract is for 500 gallons 246.2 del before EF",
+    "CentsDown": 0.5,
+    "PrepaidBalance": 50.0,
+    "DepartmentPrepaid": 1
   }
 ]

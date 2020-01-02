@@ -7,7 +7,17 @@
     "Size": 330,
     "Tank Name": "",
     "Total Tank Capacity": 950,
-    "Tank Capacity": 900
+    "Tank Capacity": 900,
+    "Daily Use": 1,
+    "K-Factor": 99,
+    "Prev K-Factor": 0,
+    "DD Region": 1,
+    "Update K-Factor": "No",
+    "Est. Gallon Left": 15,
+    "Est. Percent Left": "7%",
+    "Delivered Gallons": 50,
+    "Total Gallons with Delivery": 19,
+    "Gallons since last FF": 7
   },
   {
     "Tank Serial Number": "632495",
@@ -17,7 +27,17 @@
     "Size": 860,
     "Tank Name": "",
     "Total Tank Capacity": 950,
-    "Tank Capacity": 900
+    "Tank Capacity": 900,
+    "Daily Use": 1,
+    "K-Factor": 99,
+    "Prev K-Factor": 0,
+    "DD Region": 1,
+    "Update K-Factor": "No",
+    "Est. Gallon Left": 15,
+    "Est. Percent Left": "9%",
+    "Delivered Gallons": 50,
+    "Total Gallons with Delivery": 19,
+    "Gallons since last FF": 7
   },
   {
     "Tank Serial Number": "381346",
@@ -27,6 +47,16 @@
     "Size": 409,
     "Tank Name": "",
     "Total Tank Capacity": 950,
-    "Tank Capacity": 900
+    "Tank Capacity": 900,
+    "Daily Use": 1,
+    "K-Factor": 54,
+    "Prev K-Factor": 0,
+    "DD Region": 1,
+    "Update K-Factor": "Yes",
+    "Est. Gallon Left": 15,
+    "Est. Percent Left": "12%",
+    "Delivered Gallons": 50,
+    "Total Gallons with Delivery": 19,
+    "Gallons since last FF": 7
   }
 ]

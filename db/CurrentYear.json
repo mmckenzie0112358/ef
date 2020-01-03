@@ -1,10 +1,10 @@
 [
   {
-    "Sales YTD": "20.00",
-    "Gallons Delivered": "12",
-    "Number Of Deliveries": "6",
-    "Average Gallons Delivered": "45",
-    "Average Sales Amount": "9.45",
-    "Delivery Efficiency": "14.2"
+    "SalesYTD": "20.00",
+    "GallonsDelivered": "12",
+    "NumberOfDeliveries": "6",
+    "AverageGallonsDelivered": "45",
+    "AverageSalesAmount": "9.45",
+    "DeliveryEfficiency": "14.2"
   }
 ]

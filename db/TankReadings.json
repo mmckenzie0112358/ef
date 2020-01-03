@@ -1,28 +1,28 @@
 [
-      {
-        "Delivery Date": "12/13/17",
-        "Old DD Reading": 0,
-        "New DD Reading": 848,
-        "Glns Deliv": 101.00,
-        "Prev Glns": 0,
-        "Est Glns Left": 0.00,
-        "Est % Left": 0,
-        "Start %": 71,
-        "End %": 80,
-        "Curr KFactor": 0.00,
-        "Calc K-Factor": "V  0.00"
-      },
-      {
-        "Delivery Date": "04/16/17",
-        "Old DD Reading": 0,
-        "New DD Reading": 700,
-        "Glns Deliv": 101.00,
-        "Prev Glns": 0,
-        "Est Glns Left": 0.00,
-        "Est % Left": 0,
-        "Start %": 60,
-        "End %": 80,
-        "Curr KFactor": 0.00,
-        "Calc K-Factor": "V  0.00"
-      }
-    ]
+  {
+    "DeliveryDate": "12/13/17",
+    "OldDDReading": 0,
+    "NewDDReading": 848,
+    "GlnsDeliv": 101.0,
+    "PrevGlns": 0,
+    "EstGlnsLeft": 0.0,
+    "EstPercentLeft": 0,
+    "StartPercent": 71,
+    "EndPercent": 80,
+    "CurrKFactor": 0.0,
+    "CalcKFactor": "V  0.00"
+  },
+  {
+    "DeliveryDate": "04/16/17",
+    "OldDDReading": 0,
+    "NewDDReading": 700,
+    "GlnsDeliv": 101.0,
+    "PrevGlns": 0,
+    "EstGlnsLeft": 0.0,
+    "EstPercentLeft": 0,
+    "StartPercent": 60,
+    "EndPercent": 80,
+    "CurrKFactor": 0.0,
+    "CalcKFactor": "V  0.00"
+  }
+]

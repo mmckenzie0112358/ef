@@ -17,7 +17,9 @@
     "Est. Percent Left": "7%",
     "Delivered Gallons": 50,
     "Total Gallons with Delivery": 19,
-    "Gallons since last FF": 7
+    "Gallons since last FF": 7,
+    "CoOwns": "No",
+    "Tank Description": "Description of tank"
   },
   {
     "Tank Serial Number": "632495",
@@ -37,7 +39,9 @@
     "Est. Percent Left": "9%",
     "Delivered Gallons": 50,
     "Total Gallons with Delivery": 76,
-    "Gallons since last FF": 4
+    "Gallons since last FF": 4,
+    "CoOwns": "No",
+    "Tank Description": "Description of tank"
   },
   {
     "Tank Serial Number": "381346",
@@ -57,6 +61,8 @@
     "Est. Percent Left": "12%",
     "Delivered Gallons": 50,
     "Total Gallons with Delivery": 19,
-    "Gallons since last FF": 7
+    "Gallons since last FF": 7,
+    "CoOwns": "No",
+    "Tank Description": "Description of tank"
   }
 ]

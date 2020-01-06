@@ -19,7 +19,16 @@
     "TotalGallonswithDelivery": 19,
     "GallonssincelastFF": 7,
     "CoOwns": "No",
-    "TankDescription": "Description of tank"
+    "TankDescription": "Description of tank",
+    "CustomerType": "Commercial",
+    "DeliveryType": "Commercial",
+    "RegulatoryCode": "Commercial",
+    "PublicAssembly": "true",
+    "Underground": "false",
+    "CathodicTest": "02/21/19",
+    "PassOrFail": "Pass",
+    "SalesYTD": 734.17,
+    "GallonsUsedYTD": 8179.93
   },
   {
     "TankSerialNumber": "632495",
@@ -41,7 +50,16 @@
     "TotalGallonswithDelivery": 76,
     "GallonssincelastFF": 4,
     "CoOwns": "No",
-    "TankDescription": "Description of tank"
+    "TankDescription": "Description of tank",
+    "CustomerType": "Residential",
+    "DeliveryType": "Commercial",
+    "RegulatoryCode": "Residential",
+    "PublicAssembly": "false",
+    "Underground": "true",
+    "CathodicTest": "02/21/19",
+    "PassOrFail": "Pass",
+    "SalesYTD": 230.19,
+    "GallonsUsedYTD": 2300.01
   },
   {
     "TankSerialNumber": "381346",
@@ -63,6 +81,15 @@
     "TotalGallonswithDelivery": 19,
     "GallonssincelastFF": 7,
     "CoOwns": "No",
-    "TankDescription": "Description of tank"
+    "TankDescription": "Description of tank",
+    "CustomerType": "Commercial",
+    "DeliveryType": "Commercial",
+    "RegulatoryCode": "Commercial",
+    "PublicAssembly": "true",
+    "Underground": "false",
+    "CathodicTest": "02/21/19",
+    "PassOrFail": "Pass",
+    "SalesYTD": 675.14,
+    "GallonsUsedYTD": 3187.53
   }
 ]

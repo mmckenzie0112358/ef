@@ -1,5 +1,6 @@
 [
   {
+    "rowKey": 1,
     "Type": "H",
     "Description": "HEATING/FURNACE",
     "Make": "HH GREG",
@@ -16,6 +17,7 @@
     "Comments": "N/A"
   },
   {
+    "rowKey": 2,
     "Type": "R",
     "Description": "RANGE/COOKSTOVE",
     "Make": "trane",
@@ -32,6 +34,7 @@
     "Comments": "N/A"
   },
   {
+    "rowKey": 3,
     "Type": "W",
     "Description": "TRADITIONAL WATER HEATER",
     "Make": "Frys",
@@ -48,6 +51,7 @@
     "Comments": "N/A"
   },
   {
+    "rowKey": 4,
     "Type": "W",
     "Description": "TRADITIONAL WATER HEATER",
     "Make": "Frys",

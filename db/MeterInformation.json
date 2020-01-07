@@ -17,6 +17,8 @@
     "releaseDate": "2019-02-20",
     "updateKFactor": "Yes",
     "route": 4,
-    "sequenceNumber": 0
+    "sequenceNumber": 0,
+    "targetRefillLevel": 100,
+    "criticalRefillLevel": 100
   }
 ]

@@ -72,7 +72,13 @@
     "PaymentsOnHold": 1.0,
     "BudgetBalance": 400.0,
     "PrepayBalance": 100.0,
-    "DayOfMonth": 12
+    "DayOfMonth": 12,
+    "BillingType": 1,
+    "StartDate": "2016-03-01",
+    "EndDate": "2020-02-01",
+    "MonthlyPaymentAmount": 358.48,
+    "FiguredOn": 17207.03,
+    "Comments": "48 payments in total on original service work"
   },
   {
     "DivisionNumber": 1,
@@ -147,7 +153,13 @@
     "PaymentsOnHold": 2.0,
     "BudgetBalance": 400.0,
     "PrepayBalance": 120.0,
-    "DayOfMonth": 14
+    "DayOfMonth": 14,
+    "BillingType": 1,
+    "StartDate": "2018-01-01",
+    "EndDate": "2020-01-31",
+    "MonthlyPaymentAmount": 315.87,
+    "FiguredOn": 7580.91,
+    "Comments": ""
   },
   {
     "DivisionNumber": 1,
@@ -222,7 +234,13 @@
     "PaymentsOnHold": 1.0,
     "BudgetBalance": 300.0,
     "PrepayBalance": 150.0,
-    "DayOfMonth": 16
+    "DayOfMonth": 16,
+    "BillingType": 1,
+    "StartDate": "2019-02-01",
+    "EndDate": "2024-02-29",
+    "MonthlyPaymentAmount": 254.37,
+    "FiguredOn": 15262.2,
+    "Comments": "60 MOS FINANCING 7.99% INTEREST RATE"
   },
   {
     "DivisionNumber": 1,
@@ -297,7 +315,13 @@
     "PaymentsOnHold": 1.0,
     "BudgetBalance": 100.0,
     "PrepayBalance": 50.0,
-    "DayOfMonth": 19
+    "DayOfMonth": 19,
+    "BillingType": 1,
+    "StartDate": "2019-02-01",
+    "EndDate": "2021-02-01",
+    "MonthlyPaymentAmount": 203.49,
+    "FiguredOn": 4883.8,
+    "Comments": ""
   },
   {
     "DivisionNumber": 1,
@@ -372,6 +396,12 @@
     "PaymentsOnHold": 1.0,
     "BudgetBalance": 200.0,
     "PrepayBalance": 500.0,
-    "DayOfMonth": 19
+    "DayOfMonth": 19,
+    "BillingType": 1,
+    "StartDate": "2018-09-16",
+    "EndDate": "2018-12-16",
+    "MonthlyPaymentAmount": 306.91,
+    "FiguredOn": 920.73,
+    "Comments": ""
   }
 ]

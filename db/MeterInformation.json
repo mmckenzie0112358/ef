@@ -1,0 +1,22 @@
+[
+  {
+    "location": 0,
+    "priceCode": 46,
+    "tier": "A",
+    "defaultDept": 55,
+    "depositAmount": 1000,
+    "depositDate": "2017-04-25",
+    "manufacturer": "CLARKS MANUFACTURING",
+    "salesYtd": 30000,
+    "gallonsBilledYtd": 2500,
+    "meterTiedToTank": 12554,
+    "customerNumber": 221333,
+    "tankSerialNumber": "009988",
+    "capacity": 1000,
+    "holdEstimate": "No",
+    "releaseDate": "2019-02-20",
+    "updateKFactor": "Yes",
+    "route": 4,
+    "sequenceNumber": 0
+  }
+]

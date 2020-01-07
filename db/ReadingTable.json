@@ -9,7 +9,7 @@
     "CubicFeet": 1900,
     "GallonsUsed": 52.51,
     "Price": 2.95,
-    "ChargeAmount": "$155.95"
+    "ChargeAmount": 155.95
   },
   {
     "key": 2,
@@ -21,7 +21,7 @@
     "CubicFeet": 2200,
     "GallonsUsed": 60.46,
     "Price": 2.95,
-    "ChargeAmount": "$180.59"
+    "ChargeAmount": 180.59
   },
   {
     "key": 3,
@@ -33,7 +33,7 @@
     "CubicFeet": 2900,
     "GallonsUsed": 76.69,
     "Price": 2.95,
-    "ChargeAmount": "$238.03"
+    "ChargeAmount": 238.03
   },
   {
     "key": 4,
@@ -45,7 +45,7 @@
     "CubicFeet": 1700,
     "GallonsUsed": 46.72,
     "Price": 3.05,
-    "ChargeAmount": "$144.28"
+    "ChargeAmount": 144.28
   },
   {
     "key": 5,
@@ -57,7 +57,7 @@
     "CubicFeet": 800,
     "GallonsUsed": 21.98,
     "Price": 3.05,
-    "ChargeAmount": "$67.88"
+    "ChargeAmount": 67.88
   },
   {
     "key": 6,
@@ -69,7 +69,7 @@
     "CubicFeet": 300,
     "GallonsUsed": 8.24,
     "Price": 3.05,
-    "ChargeAmount": "$25.44"
+    "ChargeAmount": 25.44
   },
   {
     "key": 7,
@@ -81,7 +81,7 @@
     "CubicFeet": 400,
     "GallonsUsed": 10.99,
     "Price": 2.95,
-    "ChargeAmount": "$32.83"
+    "ChargeAmount": 32.83
   },
   {
     "key": 8,
@@ -93,7 +93,7 @@
     "CubicFeet": 400,
     "GallonsUsed": 10.99,
     "Price": 2.95,
-    "ChargeAmount": "$32.83"
+    "ChargeAmount": 32.83
   },
   {
     "key": 9,
@@ -105,6 +105,6 @@
     "CubicFeet": 400,
     "GallonsUsed": 10.99,
     "Price": 2.95,
-    "ChargeAmount": "$32.83"
+    "ChargeAmount": 32.83
   }
 ]

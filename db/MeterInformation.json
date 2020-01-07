@@ -18,7 +18,7 @@
     "updateKFactor": "Yes",
     "route": 4,
     "sequenceNumber": 0,
-    "targetRefillLevel": 100,
-    "criticalRefillLevel": 100
+    "targetRefillLevel": 50,
+    "criticalRefillLevel": 50
   }
 ]

@@ -231,7 +231,7 @@
     "Number": 220845,
     "ToDivision": 0,
     "ToLocation": 0,
-    "TankType": "",
+    "TankType": "P",
     "TankCapacity": "0.00",
     "SerialNumber": "00309714",
     "MeterType": 50,

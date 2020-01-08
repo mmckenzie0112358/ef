@@ -1,0 +1,13 @@
+[
+  {
+    "TankSerialNumber": "381346",
+    "TankType": "S",
+    "Department": "206",
+    "Description": "ADMIN FEE",
+    "Quantity": 1.0,
+    "PriceCode": 53,
+    "TierCode": "A",
+    "Price": 0.0,
+    "Loc": 1
+  }
+]

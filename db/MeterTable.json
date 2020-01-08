@@ -12,7 +12,7 @@
     "KFactor": 8.0,
     "ElevCD": 1,
     "Installed": "2019-07-14",
-    "DateMonitoringActivated": "2019-02-20",
+    "DateMonitoringActivated": "2018-03-21",
     "DateMonitoringInactivated": "2019-03-20",
     "BeginningCustOwnedGallons": 30,
     "BalanceOfCustOwnedGals": 12,
@@ -32,10 +32,10 @@
     "ElevCD": 1,
     "Installed": "2019-08-24",
     "DateMonitoringActivated": "2019-02-20",
-    "DateMonitoringInactivated": "2019-03-20",
-    "BeginningCustOwnedGallons": 30,
-    "BalanceOfCustOwnedGals": 12,
-    "DepartmentNumber": 2
+    "DateMonitoringInactivated": "2019-10-18",
+    "BeginningCustOwnedGallons": 14,
+    "BalanceOfCustOwnedGals": 17,
+    "DepartmentNumber": 1
   },
   {
     "key": 3,
@@ -50,11 +50,11 @@
     "KFactor": 9.0,
     "ElevCD": 2,
     "Installed": "2019-06-18",
-    "DateMonitoringActivated": "2019-02-20",
-    "DateMonitoringInactivated": "2019-03-20",
-    "BeginningCustOwnedGallons": 30,
-    "BalanceOfCustOwnedGals": 12,
-    "DepartmentNumber": 2
+    "DateMonitoringActivated": "2019-01-29",
+    "DateMonitoringInactivated": "2019-05-16",
+    "BeginningCustOwnedGallons": 25,
+    "BalanceOfCustOwnedGals": 60,
+    "DepartmentNumber": 3
   },
   {
     "key": 4,

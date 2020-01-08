@@ -19,11 +19,6 @@
     "route": 4,
     "sequenceNumber": 0,
     "targetRefillLevel": 50,
-    "criticalRefillLevel": 50,
-    "DateMonitoringActivated": "2019-02-20",
-    "DateMonitoringInactivated": "2019-03-20",
-    "BeginningCustOwnedGallons": 30,
-    "BalanceOfCustOwnedGals": 12,
-    "DepartmentNumber": 2
+    "criticalRefillLevel": 50
   }
 ]

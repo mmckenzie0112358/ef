@@ -12,7 +12,9 @@
     "Price": 0.0,
     "Loc": 1,
     "CustBilling": 23.54,
-    "CustTax": 2.76
+    "CustTax": 2.76,
+    "ItemBilling": 12.34,
+    "ItemTax": 1.12
   },
   {
     "index": 1,
@@ -27,7 +29,9 @@
     "Price": 14.0,
     "Loc": 1,
     "CustBilling": 49.98,
-    "CustTax": 5.17
+    "CustTax": 5.17,
+    "ItemBilling": 13.38,
+    "ItemTax": 3.19
   },
   {
     "index": 2,
@@ -42,7 +46,9 @@
     "Price": 12.0,
     "Loc": 1,
     "CustBilling": 25.66,
-    "CustTax": 3.26
+    "CustTax": 3.26,
+    "ItemBilling": 11.59,
+    "ItemTax": 2.07
   },
   {
     "index": 2,
@@ -57,7 +63,9 @@
     "Price": 0.0,
     "Loc": 1,
     "CustBilling": 76.91,
-    "CustTax": 14.09
+    "CustTax": 14.09,
+    "ItemBilling": 5.27,
+    "ItemTax": 3.98
   },
   {
     "index": 2,
@@ -72,6 +80,8 @@
     "Price": 0.0,
     "Loc": 1,
     "CustBilling": 49.98,
-    "CustTax": 5.17
+    "CustTax": 5.17,
+    "ItemBilling": 13.21,
+    "ItemTax": 1.12
   }
 ]

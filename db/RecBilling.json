@@ -11,8 +11,8 @@
     "TierCode": "A",
     "Price": 0.0,
     "Loc": 1,
-    "CustBilling": 49.98,
-    "CustTax": 5.17
+    "CustBilling": 23.54,
+    "CustTax": 2.76
   },
   {
     "index": 1,
@@ -41,8 +41,8 @@
     "TierCode": "A",
     "Price": 12.0,
     "Loc": 1,
-    "CustBilling": 49.98,
-    "CustTax": 5.17
+    "CustBilling": 25.66,
+    "CustTax": 3.26
   },
   {
     "index": 2,
@@ -56,8 +56,8 @@
     "TierCode": "A",
     "Price": 0.0,
     "Loc": 1,
-    "CustBilling": 49.98,
-    "CustTax": 5.17
+    "CustBilling": 76.91,
+    "CustTax": 14.09
   },
   {
     "index": 2,

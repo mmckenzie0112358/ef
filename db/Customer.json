@@ -1,5 +1,6 @@
 [
   {
+    "index": 0,
     "DivisionNumber": 1,
     "CustomerNumber": 123456,
     "Name": "Smith, John",
@@ -81,6 +82,7 @@
     "Comments": "48 payments in total on original service work"
   },
   {
+    "index": 1,
     "DivisionNumber": 1,
     "CustomerNumber": 123457,
     "Name": "Jones, Sam",
@@ -162,6 +164,7 @@
     "Comments": ""
   },
   {
+    "index": 2,
     "DivisionNumber": 1,
     "CustomerNumber": 123458,
     "Name": "Miller, Geoff",
@@ -243,6 +246,7 @@
     "Comments": "60 MOS FINANCING 7.99% INTEREST RATE"
   },
   {
+    "index": 3,
     "DivisionNumber": 1,
     "CustomerNumber": 123460,
     "Name": "Williams, Mark",
@@ -324,6 +328,7 @@
     "Comments": ""
   },
   {
+    "index": 4,
     "DivisionNumber": 1,
     "CustomerNumber": 123478,
     "Name": "Brown, Madison",

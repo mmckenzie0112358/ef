@@ -1,5 +1,6 @@
 [
   {
+    "index": 0,
     "TankSerialNumber": "381346",
     "TankType": "S",
     "Department": "206",
@@ -8,6 +9,36 @@
     "PriceCode": 53,
     "TierCode": "A",
     "Price": 0.0,
-    "Loc": 1
+    "Loc": 1,
+    "CustBilling": 49.98,
+    "CustTax": 5.17
+  },
+  {
+    "index": 1,
+    "TankSerialNumber": "381346",
+    "TankType": "S",
+    "Department": "206",
+    "Description": "ADMIN FEE",
+    "Quantity": 1.0,
+    "PriceCode": 53,
+    "TierCode": "A",
+    "Price": 0.0,
+    "Loc": 1,
+    "CustBilling": 49.98,
+    "CustTax": 5.17
+  },
+  {
+    "index": 2,
+    "TankSerialNumber": "381346",
+    "TankType": "S",
+    "Department": "206",
+    "Description": "ADMIN FEE",
+    "Quantity": 1.0,
+    "PriceCode": 53,
+    "TierCode": "A",
+    "Price": 0.0,
+    "Loc": 1,
+    "CustBilling": 49.98,
+    "CustTax": 5.17
   }
 ]

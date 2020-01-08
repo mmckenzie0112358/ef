@@ -1,5 +1,6 @@
 [
   {
+    "index": 0,
     "SalesYTD": "500.00",
     "GallonsDelivered": "20",
     "NumberOfDeliveries": "10",

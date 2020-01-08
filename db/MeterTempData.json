@@ -1,5 +1,6 @@
 [
   {
+    "index": 0,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -10,6 +11,7 @@
     "MeterReading": 260
   },
   {
+    "index": 1,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -20,6 +22,7 @@
     "MeterReading": 260
   },
   {
+    "index": 2,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -30,6 +33,7 @@
     "MeterReading": 260
   },
   {
+    "index": 3,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -40,6 +44,7 @@
     "MeterReading": 260
   },
   {
+    "index": 4,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -50,6 +55,7 @@
     "MeterReading": 260
   },
   {
+    "index": 5,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -60,6 +66,7 @@
     "MeterReading": 260
   },
   {
+    "index": 6,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -70,6 +77,7 @@
     "MeterReading": 260
   },
   {
+    "index": 7,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -80,6 +88,7 @@
     "MeterReading": 260
   },
   {
+    "index": 8,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -90,6 +99,7 @@
     "MeterReading": 260
   },
   {
+    "index": 9,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -100,6 +110,7 @@
     "MeterReading": 260
   },
   {
+    "index": 10,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -110,6 +121,7 @@
     "MeterReading": 260
   },
   {
+    "index": 11,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -120,6 +132,7 @@
     "MeterReading": 260
   },
   {
+    "index": 12,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -130,6 +143,7 @@
     "MeterReading": 260
   },
   {
+    "index": 13,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -140,6 +154,7 @@
     "MeterReading": 260
   },
   {
+    "index": 14,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -150,6 +165,7 @@
     "MeterReading": 260
   },
   {
+    "index": 15,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -160,6 +176,7 @@
     "MeterReading": 260
   },
   {
+    "index": 16,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -170,6 +187,7 @@
     "MeterReading": 260
   },
   {
+    "index": 17,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -180,6 +198,7 @@
     "MeterReading": 260
   },
   {
+    "index": 18,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -190,6 +209,7 @@
     "MeterReading": 260
   },
   {
+    "index": 19,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -200,6 +220,7 @@
     "MeterReading": 260
   },
   {
+    "index": 20,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -210,6 +231,7 @@
     "MeterReading": 260
   },
   {
+    "index": 21,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -220,6 +242,7 @@
     "MeterReading": 260
   },
   {
+    "index": 22,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -230,6 +253,7 @@
     "MeterReading": 260
   },
   {
+    "index": 23,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -240,6 +264,7 @@
     "MeterReading": 260
   },
   {
+    "index": 24,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -250,6 +275,7 @@
     "MeterReading": 260
   },
   {
+    "index": 25,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -260,6 +286,7 @@
     "MeterReading": 260
   },
   {
+    "index": 26,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -270,6 +297,7 @@
     "MeterReading": 260
   },
   {
+    "index": 27,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,
@@ -280,6 +308,7 @@
     "MeterReading": 260
   },
   {
+    "index": 28,
     "ReadingRRN": "3.110",
     "Division": 1,
     "CustomerNumber": 221333,

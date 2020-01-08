@@ -1,5 +1,6 @@
 [
   {
+    "index": 0,
     "DivisionNumber": 1,
     "CustomerNumber": 123456,
     "Name": "Smith, John",
@@ -29,6 +30,7 @@
     "CycleCode": 1
   },
   {
+    "index": 1,
     "DivisionNumber": 1,
     "CustomerNumber": 123457,
     "Name": "Jones, Sam",
@@ -58,6 +60,7 @@
     "CycleCode": 2
   },
   {
+    "index": 2,
     "DivisionNumber": 1,
     "CustomerNumber": 123460,
     "Name": "Williams, Mark",

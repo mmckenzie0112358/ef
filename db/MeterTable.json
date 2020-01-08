@@ -1,5 +1,6 @@
 [
   {
+    "index": 0,
     "key": 1,
     "MeterNumber": 100987,
     "MeterType": 3,
@@ -19,6 +20,7 @@
     "DepartmentNumber": 2
   },
   {
+    "index": 1,
     "key": 2,
     "MeterNumber": 100988,
     "MeterType": 2,
@@ -38,6 +40,7 @@
     "DepartmentNumber": 1
   },
   {
+    "index": 2,
     "key": 3,
     "MeterNumber": 100989,
     "MeterType": 13,
@@ -57,6 +60,7 @@
     "DepartmentNumber": 3
   },
   {
+    "index": 3,
     "key": 4,
     "MeterNumber": 100990,
     "MeterType": 34,
@@ -76,6 +80,7 @@
     "DepartmentNumber": 2
   },
   {
+    "index": 4,
     "key": 5,
     "MeterNumber": 100991,
     "MeterType": 2,

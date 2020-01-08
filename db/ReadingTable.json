@@ -1,5 +1,6 @@
 [
   {
+    "index": 0,
     "key": 1,
     "ReadingDate": "03/28/19",
     "CurrentReading": 260,
@@ -12,6 +13,7 @@
     "ChargeAmount": 155.95
   },
   {
+    "index": 1,
     "key": 2,
     "ReadingDate": "02/26/19",
     "CurrentReading": 241,
@@ -24,6 +26,7 @@
     "ChargeAmount": 180.59
   },
   {
+    "index": 2,
     "key": 3,
     "ReadingDate": "01/29/19",
     "CurrentReading": 219,
@@ -36,6 +39,7 @@
     "ChargeAmount": 238.03
   },
   {
+    "index": 3,
     "key": 4,
     "ReadingDate": "12/27/18",
     "CurrentReading": 190,
@@ -48,6 +52,7 @@
     "ChargeAmount": 144.28
   },
   {
+    "index": 4,
     "key": 5,
     "ReadingDate": "10/30/18",
     "CurrentReading": 159,
@@ -60,6 +65,7 @@
     "ChargeAmount": 67.88
   },
   {
+    "index": 5,
     "key": 6,
     "ReadingDate": "09/27/18",
     "CurrentReading": 151,
@@ -72,6 +78,7 @@
     "ChargeAmount": 25.44
   },
   {
+    "index": 6,
     "key": 7,
     "ReadingDate": "08/31/18",
     "CurrentReading": 148,
@@ -84,6 +91,7 @@
     "ChargeAmount": 32.83
   },
   {
+    "index": 7,
     "key": 8,
     "ReadingDate": "07/30/18",
     "CurrentReading": 144,
@@ -96,6 +104,7 @@
     "ChargeAmount": 32.83
   },
   {
+    "index": 8,
     "key": 9,
     "ReadingDate": "06/20/18",
     "CurrentReading": 140,

@@ -12,6 +12,18 @@
     "Location": 1,
     "County": 37,
     "Township": 99,
-    "SchoolDistrict": 99
+    "SchoolDistrict": 99,
+    "MasterAssetID": 0,
+    "CompanyPaints": 1,
+    "YearsPainted": 0,
+    "TypeOfPaint": "Latex",
+    "TankCondition": "Good",
+    "PriceChanges": "Yes",
+    "ManufactureDate": "03/10/2005",
+    "DepositAmount": 35.0,
+    "DepositDate": "04/14/19",
+    "DateTankSet": "07/17/19",
+    "GasCheck": "01/02/19",
+    "LeakTestDate": "10/30/18"
   }
 ]

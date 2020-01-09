@@ -2,10 +2,10 @@
   {
     "Product": 55,
     "Description": "RESIDENTIAL GAS ENERGY",
-    "Price Code": 46,
+    "PriceCode": 46,
     "Tier": "A",
     "Price": 2.95,
-    "Prod Use": "",
+    "ProdUse": "",
     "Disc": 0
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "index": 0,
     "Div": 1,
     "Cust": 199072,
     "TankSerialNumber": "D34T56J7",
@@ -16,6 +17,7 @@
     "Phone": "(555)536-9001"
   },
   {
+    "index": 1,
     "Div": 1,
     "Cust": 100972,
     "TankSerialNumber": "FREGTYJ775",
@@ -32,6 +34,7 @@
     "Phone": "(555)536-9001"
   },
   {
+    "index": 2,
     "Div": 1,
     "Cust": 199072,
     "TankSerialNumber": "D34G65JYUY",
@@ -48,6 +51,7 @@
     "Phone": "(555)536-9001"
   },
   {
+    "index": 3,
     "Div": 1,
     "Cust": 199072,
     "TankSerialNumber": "CEWG667VWQ",
@@ -64,6 +68,7 @@
     "Phone": "(555)536-9001"
   },
   {
+    "index": 4,
     "Div": 1,
     "Cust": 199072,
     "TankSerialNumber": "F43GHRMER",
@@ -80,6 +85,7 @@
     "Phone": "(555)536-9001"
   },
   {
+    "index": 5,
     "Div": 1,
     "Cust": 199072,
     "TankSerialNumber": "23534UYHER",
@@ -96,6 +102,7 @@
     "Phone": "(555)536-9001"
   },
   {
+    "index": 6,
     "Div": 1,
     "Cust": 199072,
     "TankSerialNumber": "24E32TERD",
@@ -112,6 +119,7 @@
     "Phone": "(555)536-9001"
   },
   {
+    "index": 7,
     "Div": 1,
     "Cust": 199072,
     "TankSerialNumber": "3R34YRTRF",

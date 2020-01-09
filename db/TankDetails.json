@@ -1,5 +1,6 @@
 [
   {
+    "index": 0,
     "TankSerialNumber": "381346",
     "TankRRN": "6,778",
     "Type": "S",
@@ -37,6 +38,7 @@
     "LastFullFill": "01/20/19"
   },
   {
+    "index": 1,
     "TankSerialNumber": "632495",
     "TankRRN": "8,387",
     "Type": "P",
@@ -74,6 +76,7 @@
     "LastFullFill": "01/20/19"
   },
   {
+    "index": 2,
     "TankSerialNumber": "381346",
     "TankRRN": "6,778",
     "Type": "P",

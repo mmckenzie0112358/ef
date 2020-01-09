@@ -1,5 +1,6 @@
 [
   {
+    "index": 0,
     "DeliveryDate": "12/13/17",
     "OldDDReading": 0,
     "NewDDReading": 848,
@@ -13,6 +14,7 @@
     "CalcKFactor": "V  0.00"
   },
   {
+    "index": 1,
     "DeliveryDate": "04/16/17",
     "OldDDReading": 0,
     "NewDDReading": 700,

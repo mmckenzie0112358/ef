@@ -1,5 +1,6 @@
 [
   {
+    "index": 0,
     "Division": 1,
     "WorkOrder": 3,
     "OrderDate": "2018-01-01",
@@ -58,6 +59,7 @@
     "WorkOrderDesc": "TANK EXCHG"
   },
   {
+    "index": 1,
     "Division": 1,
     "WorkOrder": 4,
     "OrderDate": "2019-04-01",
@@ -116,6 +118,7 @@
     "WorkOrderDesc": "PAINT TANK"
   },
   {
+    "index": 2,
     "Division": 1,
     "WorkOrder": 7,
     "OrderDate": "2019-07-01",

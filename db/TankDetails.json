@@ -35,7 +35,13 @@
     "LastDel": "04/26/19",
     "JulianDelivery": "04/18/20",
     "LastCharge": "05/16/18",
-    "LastFullFill": "01/20/19"
+    "LastFullFill": "01/20/19",
+    "HoldReleaseDate": "10/30/19",
+    "HoldDate": "10/11/18",
+    "HoldKFactorCalculations": 2,
+    "LastPercentUpdate": "10/25/18",
+    "HoldReason": 2,
+    "HoldDDCalculations": "No"
   },
   {
     "index": 1,
@@ -73,7 +79,13 @@
     "LastDel": "02/20/15",
     "JulianDelivery": "04/18/20",
     "LastCharge": "07/16/18",
-    "LastFullFill": "01/20/19"
+    "LastFullFill": "01/20/19",
+    "HoldReleaseDate": "02/10/19",
+    "HoldDate": "04/15/19",
+    "HoldKFactorCalculations": 2,
+    "LastPercentUpdate": "12/25/18",
+    "HoldReason": 2,
+    "HoldDDCalculations": "No"
   },
   {
     "index": 2,
@@ -111,6 +123,12 @@
     "LastDel": "04/14/19",
     "JulianDelivery": "04/18/20",
     "LastCharge": "05/17/18",
-    "LastFullFill": "01/20/12"
+    "LastFullFill": "01/20/12",
+    "HoldReleaseDate": "10/30/19",
+    "HoldDate": "10/11/18",
+    "HoldKFactorCalculations": 2,
+    "LastPercentUpdate": "10/25/18",
+    "HoldReason": 2,
+    "HoldDDCalculations": "No"
   }
 ]

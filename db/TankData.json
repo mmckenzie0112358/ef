@@ -1,9 +1,12 @@
 [
   {
     "KFactor": 0.0,
-    "HoldReleaseDate": "0000-00-00",
-    "HoldDate": "0000-00-00",
+    "HoldReleaseDate": "2019-10-30",
+    "HoldDate": "2018-11-10",
     "HoldKFactorCalculations": 2,
-    "DailyUse": 0.22
+    "DailyUse": 0.22,
+    "LastPercentUpdate": "2018-10-25",
+    "HoldReason": 2,
+    "HoldDDCalculations": "No"
   }
 ]

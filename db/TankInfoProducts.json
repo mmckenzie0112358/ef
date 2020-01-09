@@ -6,6 +6,12 @@
     "Tier": "A",
     "Price": 2.95,
     "ProdUse": "",
-    "Disc": 0
+    "Disc": 0,
+    "Route": 4,
+    "RouteSeqNumber": 0,
+    "Location": 1,
+    "County": 37,
+    "Township": 99,
+    "SchoolDistrict": 99
   }
 ]

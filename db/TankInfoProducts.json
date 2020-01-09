@@ -24,6 +24,19 @@
     "DepositDate": "04/14/19",
     "DateTankSet": "07/17/19",
     "GasCheck": "01/02/19",
-    "LeakTestDate": "10/30/18"
+    "LeakTestDate": "10/30/18",
+    "Scheduled": "",
+    "Truck": "",
+    "Est % Left": "",
+    "Temp Ticket #": "",
+    "Gallons Delivered": "",
+    "Longitude": "0.0000000",
+    "LongDeg": "0.000",
+    "LongMin": 0,
+    "Latitude": "0.0000000",
+    "LatDeg": "0.000",
+    "LatMin": 0,
+    "MapLatitude": -383073760,
+    "MapLongitude": -766474670
   }
 ]

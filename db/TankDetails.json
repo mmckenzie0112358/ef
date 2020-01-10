@@ -41,7 +41,13 @@
     "HoldKFactorCalculations": 2,
     "LastPercentUpdate": "10/25/18",
     "HoldReason": 2,
-    "HoldDDCalculations": "No"
+    "HoldDDCalculations": "No",
+    "DeliveryAddress": "4143 DOCTORS CROSSING RD",
+    "City": "LEONARDTOWN",
+    "State": "MD",
+    "Zip": "20650",
+    "SpecialDeliveryInstructions": "Dock 2",
+    "Direct": "LOT 11 CLARKS REST TAYLOR OWNS 500 U/G"
   },
   {
     "index": 1,
@@ -85,7 +91,13 @@
     "HoldKFactorCalculations": 2,
     "LastPercentUpdate": "12/25/18",
     "HoldReason": 2,
-    "HoldDDCalculations": "No"
+    "HoldDDCalculations": "No",
+    "DeliveryAddress": "213 KINGS ST",
+    "City": "PANAMA",
+    "State": "FL",
+    "Zip": "30520",
+    "SpecialDeliveryInstructions": "CALL DOUG",
+    "Direct": "GATE PASSCODE IS 1235"
   },
   {
     "index": 2,
@@ -129,6 +141,12 @@
     "HoldKFactorCalculations": 2,
     "LastPercentUpdate": "10/25/18",
     "HoldReason": 2,
-    "HoldDDCalculations": "No"
+    "HoldDDCalculations": "No",
+    "DeliveryAddress": "804 E SINGLETON AVE",
+    "City": "INDIANAPOLIS",
+    "State": "IN",
+    "Zip": "46228",
+    "SpecialDeliveryInstructions": "COME TO BACK DOOR",
+    "Direct": "LOT 3 GO TO SIDE BUILDING"
   }
 ]

@@ -147,6 +147,7 @@
     "State": "IN",
     "Zip": "46228",
     "SpecialDeliveryInstructions": "COME TO BACK DOOR",
-    "Direct": "LOT 3 GO TO SIDE BUILDING"
+    "Direct": "LOT 3 GO TO SIDE BUILDING",
+    "MasterAssetID": 899
   }
 ]

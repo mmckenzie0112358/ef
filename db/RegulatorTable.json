@@ -1,0 +1,26 @@
+[
+  {
+    "Model": "92Alpha",
+    "Manufacturer": "HHGregg",
+    "Stage": 3,
+    "DateMfg": "2003/12/13",
+    "BusOwns": true,
+    "Comment": "Hi, my name is Michael and I can do anything with Code!!!!"
+  },
+  {
+    "Model": "92Beta",
+    "Manufacturer": "Sony",
+    "Stage": 4,
+    "DateMfg": "2003/12/13",
+    "BusOwns": false,
+    "Comment": "Hi, my name is Michael and I can do anything with Code!!!!"
+  },
+  {
+    "Model": "92Sigma",
+    "Manufacturer": "Tumblr",
+    "Stage": 9,
+    "DateMfg": "2012/12/13",
+    "BusOwns": true,
+    "Comment": "Hi, my name is Michael and I can do anything with Code!!!!"
+  }
+]

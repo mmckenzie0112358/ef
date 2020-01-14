@@ -6,7 +6,7 @@
     "Stage": 3,
     "DateMfg": "2003/12/13",
     "BusOwns": true,
-    "Comment": "Hi, my name is Michael and I can do anything with Code!!!!"
+    "Comment": "Test comment"
   },
   {
     "index": 1,
@@ -15,15 +15,15 @@
     "Stage": 4,
     "DateMfg": "2003/12/13",
     "BusOwns": false,
-    "Comment": "Hi, my name is Michael and I can do anything with Code!!!!"
+    "Comment": "This regulator is in good condition"
   },
   {
     "index": 2,
     "Model": "92Sigma",
-    "Manufacturer": "Tumblr",
+    "Manufacturer": "QVS",
     "Stage": 9,
     "DateMfg": "2012/12/13",
     "BusOwns": true,
-    "Comment": "Hi, my name is Michael and I can do anything with Code!!!!"
+    "Comment": "Needs repair"
   }
 ]

@@ -1,42 +1,42 @@
-
-    {
-        "index" : 0,
-        "TankRRN" : 1,
-        "Capacity" : 2000,
-        "CustomerNumber" : 233000,
-        "CustomerName" : "John Smith",
-        "Address" : "123 Main Street"
-    },
-    {
-        "index" : 1,
-        "TankRRN" : 1,
-        "Capacity" : 2000,
-        "CustomerNumber" : 233000,
-        "CustomerName" : "Jamie Smith",
-        "Address" : "123 Main Street"
-    },
-    {
-        "index" : 2,
-        "TankRRN" : 1,
-        "Capacity" : 2000,
-        "CustomerNumber" : 233000,
-        "CustomerName" : "Jose Smith",
-        "Address" : "123 Main Street"
-    },
-    {
-        "index" : 3,
-        "TankRRN" : 1,
-        "Capacity" : 2000,
-        "CustomerNumber" : 233000,
-        "CustomerName" : "Steven Smith",
-        "Address" : "123 Main Street"
-    },
-    {
-        "index" : 4,
-        "TankRRN" : 1,
-        "Capacity" : 2000,
-        "CustomerNumber" : 233000,
-        "CustomerName" : "Aaron Smith",
-        "Address" : "123 Main Street"
-    },
+[
+  {
+    "index": 0,
+    "TankRRN": 1,
+    "Capacity": 2000,
+    "CustomerNumber": 233000,
+    "CustomerName": "John Smith",
+    "Address": "123 Main Street"
+  },
+  {
+    "index": 1,
+    "TankRRN": 1,
+    "Capacity": 2000,
+    "CustomerNumber": 233000,
+    "CustomerName": "Jamie Smith",
+    "Address": "123 Main Street"
+  },
+  {
+    "index": 2,
+    "TankRRN": 1,
+    "Capacity": 2000,
+    "CustomerNumber": 233000,
+    "CustomerName": "Jose Smith",
+    "Address": "123 Main Street"
+  },
+  {
+    "index": 3,
+    "TankRRN": 1,
+    "Capacity": 2000,
+    "CustomerNumber": 233000,
+    "CustomerName": "Steven Smith",
+    "Address": "123 Main Street"
+  },
+  {
+    "index": 4,
+    "TankRRN": 1,
+    "Capacity": 2000,
+    "CustomerNumber": 233000,
+    "CustomerName": "Aaron Smith",
+    "Address": "123 Main Street"
+  }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "index": 0,
+    "CustomerNumber": 123456,
     "PhotoIDModuleSequenceID": "464 CST 101642",
     "PhotoTypePhotoComment": "Gas Check",
     "PhotoTitle": "Customer 101642",
@@ -10,6 +11,7 @@
   },
   {
     "index": 1,
+    "CustomerNumber": 123457,
     "PhotoIDModuleSequenceID": "464 CST 101642",
     "PhotoTypePhotoComment": "Contract",
     "PhotoTitle": "Customer 101642",
@@ -19,6 +21,7 @@
   },
   {
     "index": 2,
+    "CustomerNumber": 123458,
     "PhotoIDModuleSequenceID": "464 CST 101642",
     "PhotoTypePhotoComment": "Resale Certificate",
     "PhotoTitle": "Customer 101642",
@@ -28,6 +31,7 @@
   },
   {
     "index": 3,
+    "CustomerNumber": 123460,
     "PhotoIDModuleSequenceID": "464 CST 101642",
     "PhotoTypePhotoComment": "Waiver",
     "PhotoTitle": "Customer 101642",

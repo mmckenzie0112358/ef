@@ -1,6 +1,11 @@
 [
   {
     "index": 0,
+    "TankSerialNumber": 381346,
+    "Type": "S",
+    "TankName": "Hubris",
+    "TotalTankCapacity": 950,
+    "TankCapacity": 900,
     "CurrentSalesYTD": "20.00",
     "CurrentGallonsDelivered": 12,
     "CurrentNumberOfDeliveries": 6,
@@ -22,6 +27,11 @@
   },
   {
     "index": 1,
+    "TankSerialNumber": 632495,
+    "Type": "P",
+    "TankName": "E32",
+    "TotalTankCapacity": 600,
+    "TankCapacity": 590,
     "CurrentSalesYTD": "24.00",
     "CurrentGallonsDelivered": 43,
     "CurrentNumberOfDeliveries": 8,
@@ -43,6 +53,11 @@
   },
   {
     "index": 2,
+    "TankSerialNumber": 381346,
+    "Type": "P",
+    "TankName": "A2",
+    "TotalTankCapacity": 400,
+    "TankCapacity": 400,
     "CurrentSalesYTD": "13.00",
     "CurrentGallonsDelivered": 9,
     "CurrentNumberOfDeliveries": 3,

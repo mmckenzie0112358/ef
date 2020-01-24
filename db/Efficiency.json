@@ -1,7 +1,6 @@
 [
   {
     "index": 0,
-    "TankSerialNumber": 381346,
     "CurrentSalesYTD": "20.00",
     "CurrentGallonsDelivered": 12,
     "CurrentNumberOfDeliveries": 6,
@@ -23,7 +22,6 @@
   },
   {
     "index": 1,
-    "TankSerialNumber": 632495,
     "CurrentSalesYTD": "24.00",
     "CurrentGallonsDelivered": 43,
     "CurrentNumberOfDeliveries": 8,
@@ -45,7 +43,6 @@
   },
   {
     "index": 2,
-    "TankSerialNumber": 381346,
     "CurrentSalesYTD": "13.00",
     "CurrentGallonsDelivered": 9,
     "CurrentNumberOfDeliveries": 3,

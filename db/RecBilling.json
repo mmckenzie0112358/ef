@@ -11,8 +11,6 @@
     "TierCode": "A",
     "Price": 0.0,
     "Loc": 3,
-    "CustBilling": 23.54,
-    "CustTax": 2.76,
     "ItemBilling": 12.34,
     "ItemTax": 3.14
   },
@@ -28,8 +26,6 @@
     "TierCode": "B",
     "Price": 0.0,
     "Loc": 14,
-    "CustBilling": 45.12,
-    "CustTax": 2.76,
     "ItemBilling": 12.34,
     "ItemTax": 1.12
   },
@@ -45,8 +41,6 @@
     "TierCode": "A",
     "Price": 0.0,
     "Loc": 1,
-    "CustBilling": 17.91,
-    "CustTax": 1.18,
     "ItemBilling": 23.86,
     "ItemTax": "0.98"
   },
@@ -62,8 +56,6 @@
     "TierCode": "A",
     "Price": 14.0,
     "Loc": 1,
-    "CustBilling": 49.98,
-    "CustTax": 5.17,
     "ItemBilling": 13.38,
     "ItemTax": 3.19
   },
@@ -79,8 +71,6 @@
     "TierCode": "A",
     "Price": 12.0,
     "Loc": 1,
-    "CustBilling": 25.66,
-    "CustTax": 3.26,
     "ItemBilling": 11.59,
     "ItemTax": 2.07
   },
@@ -96,8 +86,6 @@
     "TierCode": "b",
     "Price": 10.0,
     "Loc": 3,
-    "CustBilling": 24.32,
-    "CustTax": 2.82,
     "ItemBilling": 9.89,
     "ItemTax": 1.67
   },
@@ -113,8 +101,6 @@
     "TierCode": "A",
     "Price": 0.0,
     "Loc": 1,
-    "CustBilling": 76.91,
-    "CustTax": 14.09,
     "ItemBilling": 5.27,
     "ItemTax": 3.98
   },
@@ -130,8 +116,6 @@
     "TierCode": "A",
     "Price": 0.0,
     "Loc": 1,
-    "CustBilling": 49.98,
-    "CustTax": 5.17,
     "ItemBilling": 13.21,
     "ItemTax": 1.12
   }

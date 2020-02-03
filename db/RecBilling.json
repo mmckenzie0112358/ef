@@ -9,7 +9,7 @@
     "Quantity": 1.0,
     "PriceCode": 47,
     "TierCode": "A",
-    "Price": 0.0,
+    "Price": 12.34,
     "Loc": 3,
     "ItemBilling": 12.34,
     "ItemTax": 3.14
@@ -24,7 +24,7 @@
     "Quantity": 2.0,
     "PriceCode": 32,
     "TierCode": "B",
-    "Price": 0.0,
+    "Price": 12.34,
     "Loc": 14,
     "ItemBilling": 12.34,
     "ItemTax": 1.12
@@ -39,10 +39,10 @@
     "Quantity": 1.0,
     "PriceCode": 12,
     "TierCode": "A",
-    "Price": 0.0,
+    "Price": 23.86,
     "Loc": 1,
     "ItemBilling": 23.86,
-    "ItemTax": "0.98"
+    "ItemTax": 4.98
   },
   {
     "index": 3,
@@ -54,7 +54,7 @@
     "Quantity": 9.0,
     "PriceCode": 32,
     "TierCode": "A",
-    "Price": 14.0,
+    "Price": 13.38,
     "Loc": 1,
     "ItemBilling": 13.38,
     "ItemTax": 3.19
@@ -69,7 +69,7 @@
     "Quantity": 10.0,
     "PriceCode": 67,
     "TierCode": "A",
-    "Price": 12.0,
+    "Price": 11.59,
     "Loc": 1,
     "ItemBilling": 11.59,
     "ItemTax": 2.07
@@ -84,7 +84,7 @@
     "Quantity": 12.0,
     "PriceCode": 23,
     "TierCode": "b",
-    "Price": 10.0,
+    "Price": 9.89,
     "Loc": 3,
     "ItemBilling": 9.89,
     "ItemTax": 1.67
@@ -99,7 +99,7 @@
     "Quantity": 7.0,
     "PriceCode": 53,
     "TierCode": "A",
-    "Price": 0.0,
+    "Price": 5.27,
     "Loc": 1,
     "ItemBilling": 5.27,
     "ItemTax": 3.98
@@ -114,7 +114,7 @@
     "Quantity": 4.0,
     "PriceCode": 53,
     "TierCode": "A",
-    "Price": 0.0,
+    "Price": 13.21,
     "Loc": 1,
     "ItemBilling": 13.21,
     "ItemTax": 1.12

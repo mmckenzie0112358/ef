@@ -1,6 +1,7 @@
 [
   {
     "index": 0,
+    "key": 0,
     "Div": 1,
     "WarehouseName": "Main",
     "Loc": 7,
@@ -13,6 +14,7 @@
   },
   {
     "index": 1,
+    "key": 1,
     "Div": 1,
     "WarehouseName": "Main",
     "Loc": 7,
@@ -25,6 +27,7 @@
   },
   {
     "index": 2,
+    "key": 2,
     "Div": 2,
     "WarehouseName": "Secondary",
     "Loc": 8,
@@ -37,6 +40,7 @@
   },
   {
     "index": 3,
+    "key": 3,
     "Div": 1,
     "WarehouseName": "Main",
     "Loc": 7,

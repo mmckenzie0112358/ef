@@ -2,6 +2,7 @@
   {
     "RentalStatus": "Active",
     "BillToCustId": 14984263,
+    "BillToCustName": "Tim Sizemore",
     "BillingType": "Dollars",
     "BillingFrequency": "Monthly",
     "BillMonth": 5,

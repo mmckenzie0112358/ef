@@ -1,8 +1,8 @@
 [
   {
     "index": 0,
-    "TankSerialNumber": "381346",
-    "TankRRN": "6,778",
+    "TankSerialNumber": "098763",
+    "TankRRN": "123456",
     "Type": "S",
     "AI": "A",
     "Size": 330,
@@ -51,8 +51,8 @@
   },
   {
     "index": 1,
-    "TankSerialNumber": "632495",
-    "TankRRN": "8,387",
+    "TankSerialNumber": "098764",
+    "TankRRN": "123457",
     "Type": "P",
     "AI": "I",
     "Size": 860,
@@ -101,8 +101,8 @@
   },
   {
     "index": 2,
-    "TankSerialNumber": "381346",
-    "TankRRN": "6,778",
+    "TankSerialNumber": "098765",
+    "TankRRN": "123458",
     "Type": "P",
     "AI": "A",
     "Size": 409,

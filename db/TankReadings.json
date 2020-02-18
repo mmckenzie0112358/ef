@@ -11,7 +11,8 @@
     "StartPercent": 71,
     "EndPercent": 80,
     "CurrKFactor": 0.0,
-    "CalcKFactor": "V  0.00"
+    "CalcKFactor": "V  0.00",
+    "TankRRN": 123456
   },
   {
     "index": 1,
@@ -25,6 +26,52 @@
     "StartPercent": 60,
     "EndPercent": 80,
     "CurrKFactor": 0.0,
-    "CalcKFactor": "V  0.00"
+    "CalcKFactor": "V  0.00",
+    "TankRRN": 123456
+  },
+  {
+    "index": 2,
+    "DeliveryDate": "12/01/18",
+    "OldDDReading": 150,
+    "NewDDReading": 200,
+    "GlnsDeliv": 125.0,
+    "PrevGlns": 50,
+    "EstGlnsLeft": 50,
+    "EstPercentLeft": 15,
+    "StartPercent": 80,
+    "EndPercent": 85,
+    "CurrKFactor": 123,
+    "CalcKFactor": "V  0.00",
+    "TankRRN": 123457
+  },
+  {
+    "index": 3,
+    "DeliveryDate": "08/23/16",
+    "OldDDReading": 20,
+    "NewDDReading": 700,
+    "GlnsDeliv": 90.0,
+    "PrevGlns": 0,
+    "EstGlnsLeft": 90.0,
+    "EstPercentLeft": 90,
+    "StartPercent": 0,
+    "EndPercent": 90,
+    "CurrKFactor": 1.2,
+    "CalcKFactor": "V  0.00",
+    "TankRRN": 123457
+  },
+  {
+    "index": 4,
+    "DeliveryDate": "01/26/19",
+    "OldDDReading": 0,
+    "NewDDReading": 848,
+    "GlnsDeliv": 101.0,
+    "PrevGlns": 0,
+    "EstGlnsLeft": 0.0,
+    "EstPercentLeft": 0,
+    "StartPercent": 71,
+    "EndPercent": 80,
+    "CurrKFactor": 0.0,
+    "CalcKFactor": "V  0.00",
+    "TankRRN": 123458
   }
 ]

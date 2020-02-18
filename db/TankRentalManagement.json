@@ -8,7 +8,7 @@
     "BillMonth": 5,
     "RentalPricingCode": 2,
     "LeaseToOwn": "True",
-    "DontBillAfter": "04/05/2019",
+    "DontBillAfter": "2019-04-05",
     "LeaseStatus": "Pending",
     "LeaseNumber": "",
     "AssetId": "936",

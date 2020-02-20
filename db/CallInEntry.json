@@ -39,7 +39,8 @@
     "DeliveryType": "1 WILL CALL",
     "TermsCode": "5 No Credit Information",
     "PriceCode": "3A 4.500",
-    "Loc": "28390 West Main St. Fishers, Indiana"
+    "Loc": "28390 West Main St. Fishers, Indiana",
+    "DelAddr": "28390 West Main St."
   },
   {
     "CustomerNumber": "365679",
@@ -83,7 +84,8 @@
     "TermsDescription": "No Credit Information",
     "PriceCode": "3A",
     "PriceDescription": "4.500",
-    "Loc": "34 Addison Dr. Lebanon, Indiana"
+    "Loc": "34 Addison Dr. Lebanon, Indiana",
+    "DelAddr": "34 Addison Dr."
   },
   {
     "CustomerNumber": "100174",
@@ -127,6 +129,7 @@
     "TermsDescription": "No Credit Information",
     "PriceCode": "3A",
     "PriceDescription": "4.500",
-    "Loc": "28390 West Main St. Fishers, Indiana"
+    "Loc": "28390 West Main St. Fishers, Indiana",
+    "DelAddr": "28390 West Main St."
   }
 ]

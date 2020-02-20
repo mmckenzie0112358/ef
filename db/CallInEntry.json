@@ -79,8 +79,10 @@
     "CreditLimit": "$200.00",
     "CustomerType": "3 Day Use Only-Residential",
     "DeliveryType": "DROP",
-    "TermsCode": "5 No Credit Information",
-    "PriceCode": "3A 4.500",
+    "TermsCode": "5",
+    "TermsDescription": "No Credit Information",
+    "PriceCode": "3A",
+    "PriceDescription": "4.500",
     "Loc": "34 Addison Dr. Lebanon, Indiana"
   },
   {
@@ -121,8 +123,10 @@
     "CreditLimit": "$0.00",
     "CustomerType": "3 Day Use Only-Residential",
     "DeliveryType": "1 WILL CALL",
-    "TermsCode": "5 No Credit Information",
-    "PriceCode": "3A 4.500",
+    "TermsCode": "5",
+    "TermsDescription": "No Credit Information",
+    "PriceCode": "3A",
+    "PriceDescription": "4.500",
     "Loc": "28390 West Main St. Fishers, Indiana"
   }
 ]

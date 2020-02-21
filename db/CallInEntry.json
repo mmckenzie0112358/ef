@@ -1,5 +1,6 @@
 [
   {
+    "index": 0,
     "CustomerNumber": "100174",
     "CustomerName": "Goodman John",
     "Pend": "",
@@ -43,6 +44,7 @@
     "DelAddr": "28390 West Main St."
   },
   {
+    "index": 1,
     "CustomerNumber": "365679",
     "CustomerName": "Adam Sanders",
     "Pend": "",
@@ -88,6 +90,7 @@
     "DelAddr": "34 Addison Dr."
   },
   {
+    "index": 2,
     "CustomerNumber": "100174",
     "CustomerName": "Goodman John",
     "Pend": "",

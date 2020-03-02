@@ -14,7 +14,8 @@
     "PartialMsg": "3/13 mike leak & soap tested",
     "Name": "1ST CLASS AUTO SALES",
     "Message": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
-    "Phone": "(555)536-9001"
+    "Phone": "(555)536-9001",
+    "EnteredBy": "Ashley"
   },
   {
     "index": 1,
@@ -31,7 +32,8 @@
     "PartialMsg": "06/12 Kevin picked up 1-420 S/N A248639",
     "Name": "STEVEN'S BODY SHOP",
     "Message": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
-    "Phone": "(555)536-9001"
+    "Phone": "(555)536-9001",
+    "EnteredBy": "Michael"
   },
   {
     "index": 2,
@@ -49,6 +51,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "Message": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
     "Phone": "(555)536-9001"
+    "EnteredBy": "Ashley"
   },
   {
     "index": 3,
@@ -65,7 +68,8 @@
     "PartialMsg": "Left msg with mechanic",
     "Name": "1ST CLASS AUTO SALES",
     "Message": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
-    "Phone": "(555)536-9001"
+    "Phone": "(555)536-9001",
+    "EnteredBy": "Chaz"
   },
   {
     "index": 4,
@@ -82,7 +86,8 @@
     "PartialMsg": "01/31 KEvin cleaned and serviced wall heater",
     "Name": "1ST CLASS AUTO SALES",
     "Message": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
-    "Phone": "(555)536-9001"
+    "Phone": "(555)536-9001",
+    "EnteredBy": "Chaz"
   },
   {
     "index": 5,
@@ -99,7 +104,8 @@
     "PartialMsg": "3/13 mike leak & soap tested",
     "Name": "1ST CLASS AUTO SALES",
     "Message": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
-    "Phone": "(555)536-9001"
+    "Phone": "(555)536-9001",
+    "EnteredBy": "Ashley"
   },
   {
     "index": 6,
@@ -116,7 +122,8 @@
     "PartialMsg": "Customer called and paid balance",
     "Name": "1ST CLASS AUTO SALES",
     "Message": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
-    "Phone": "(555)536-9001"
+    "Phone": "(555)536-9001",
+    "EnteredBy": "Michael"
   },
   {
     "index": 7,
@@ -133,6 +140,7 @@
     "PartialMsg": "3/13 mike leak & soap tested",
     "Name": "1ST CLASS AUTO SALES",
     "Message": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
-    "Phone": "(555)536-9001"
+    "Phone": "(555)536-9001",
+    "EnteredBy": "Ashley"
   }
 ]

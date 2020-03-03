@@ -79,7 +79,13 @@
     "EndDate": "2020-02-01",
     "MonthlyPaymentAmount": 358.48,
     "FiguredOn": 17207.03,
-    "Comments": "48 payments in total on original service work"
+    "Comments": "48 payments in total on original service work",
+    "TankInfo": "Active",
+    "Appliances": "Active",
+    "ContractGas": "Active",
+    "HistoryInquiry": "Active",
+    "CommentPage": "Active",
+    "EnergyImage": "Active"
   },
   {
     "index": 1,
@@ -161,7 +167,13 @@
     "EndDate": "2020-01-31",
     "MonthlyPaymentAmount": 315.87,
     "FiguredOn": 7580.91,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "",
+    "ContractGas": "Active",
+    "HistoryInquiry": "",
+    "CommentPage": "Active",
+    "EnergyImage": ""
   },
   {
     "index": 2,
@@ -243,7 +255,13 @@
     "EndDate": "2024-02-29",
     "MonthlyPaymentAmount": 254.37,
     "FiguredOn": 15262.2,
-    "Comments": "60 MOS FINANCING 7.99% INTEREST RATE"
+    "Comments": "60 MOS FINANCING 7.99% INTEREST RATE",
+    "TankInfo": "",
+    "Appliances": "Active",
+    "ContractGas": "",
+    "HistoryInquiry": "Active",
+    "CommentPage": "",
+    "EnergyImage": "Active"
   },
   {
     "index": 3,
@@ -325,7 +343,13 @@
     "EndDate": "2021-02-01",
     "MonthlyPaymentAmount": 203.49,
     "FiguredOn": 4883.8,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "",
+    "Appliances": "",
+    "ContractGas": "",
+    "HistoryInquiry": "",
+    "CommentPage": "",
+    "EnergyImage": ""
   },
   {
     "index": 4,
@@ -407,7 +431,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "",
+    "ContractGas": "",
+    "HistoryInquiry": "Active",
+    "CommentPage": "",
+    "EnergyImage": "Active"
   },
   {
     "index": 5,
@@ -489,7 +519,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "",
+    "Appliances": "",
+    "ContractGas": "",
+    "HistoryInquiry": "Active",
+    "CommentPage": "Active",
+    "EnergyImage": "Active"
   },
   {
     "index": 6,
@@ -571,7 +607,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "Active",
+    "ContractGas": "Active",
+    "HistoryInquiry": "",
+    "CommentPage": "Active",
+    "EnergyImage": ""
   },
   {
     "index": 7,
@@ -653,7 +695,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "Active",
+    "ContractGas": "Active",
+    "HistoryInquiry": "Active",
+    "CommentPage": "Active",
+    "EnergyImage": "Active"
   },
   {
     "index": 8,
@@ -735,7 +783,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "",
+    "ContractGas": "",
+    "HistoryInquiry": "",
+    "CommentPage": "Active",
+    "EnergyImage": ""
   },
   {
     "index": 9,
@@ -817,7 +871,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "",
+    "Appliances": "",
+    "ContractGas": "",
+    "HistoryInquiry": "",
+    "CommentPage": "",
+    "EnergyImage": ""
   },
   {
     "index": 10,
@@ -899,7 +959,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "Active",
+    "ContractGas": "",
+    "HistoryInquiry": "",
+    "CommentPage": "Active",
+    "EnergyImage": ""
   },
   {
     "index": 11,
@@ -981,7 +1047,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "Active",
+    "ContractGas": "Active",
+    "HistoryInquiry": "Active",
+    "CommentPage": "Active",
+    "EnergyImage": "Active"
   },
   {
     "index": 12,
@@ -1063,7 +1135,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "Active",
+    "ContractGas": "",
+    "HistoryInquiry": "Active",
+    "CommentPage": "Active",
+    "EnergyImage": ""
   },
   {
     "index": 13,
@@ -1145,7 +1223,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "Active",
+    "ContractGas": "Active",
+    "HistoryInquiry": "Active",
+    "CommentPage": "Active",
+    "EnergyImage": "Active"
   },
   {
     "index": 14,
@@ -1227,7 +1311,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "",
+    "ContractGas": "",
+    "HistoryInquiry": "Active",
+    "CommentPage": "Active",
+    "EnergyImage": ""
   },
   {
     "index": 15,
@@ -1309,7 +1399,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "",
+    "ContractGas": "",
+    "HistoryInquiry": "Active",
+    "CommentPage": "",
+    "EnergyImage": "Active"
   },
   {
     "index": 16,
@@ -1391,7 +1487,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "",
+    "ContractGas": "",
+    "HistoryInquiry": "",
+    "CommentPage": "Active",
+    "EnergyImage": "Active"
   },
   {
     "index": 17,
@@ -1473,7 +1575,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "",
+    "ContractGas": "Active",
+    "HistoryInquiry": "",
+    "CommentPage": "Active",
+    "EnergyImage": ""
   },
   {
     "index": 18,
@@ -1555,7 +1663,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "",
+    "Appliances": "Active",
+    "ContractGas": "",
+    "HistoryInquiry": "Active",
+    "CommentPage": "",
+    "EnergyImage": "Active"
   },
   {
     "index": 19,
@@ -1637,7 +1751,13 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "",
+    "ContractGas": "Active",
+    "HistoryInquiry": "",
+    "CommentPage": "Active",
+    "EnergyImage": ""
   },
   {
     "index": 20,
@@ -1719,6 +1839,12 @@
     "EndDate": "2018-12-16",
     "MonthlyPaymentAmount": 306.91,
     "FiguredOn": 920.73,
-    "Comments": ""
+    "Comments": "",
+    "TankInfo": "Active",
+    "Appliances": "",
+    "ContractGas": "",
+    "HistoryInquiry": "",
+    "CommentPage": "Active",
+    "EnergyImage": "Active"
   }
 ]

@@ -22,7 +22,8 @@
     "E_orT": "T",
     "Description": "R100J25640",
     "LinkedToEquipmentOrTankR": 3,
-    "DateOfLastServicePerformed": "00000000"
+    "DateOfLastServicePerformed": "00000000",
+    "Division": 1
   },
   {
     "index": 1,
@@ -47,7 +48,8 @@
     "E_orT": "E",
     "Description": "TANKLESS W/H",
     "LinkedToEquipmentOrTankR": 0,
-    "DateOfLastServicePerformed": "00000000"
+    "DateOfLastServicePerformed": "00000000",
+    "Division": 1
   },
   {
     "index": 2,
@@ -72,6 +74,7 @@
     "E_orT": "T",
     "Description": "A162773",
     "LinkedToEquipmentOrTankR": 38,
-    "DateOfLastServicePerformed": "00000000"
+    "DateOfLastServicePerformed": "00000000",
+    "Division": 1
   }
 ]

@@ -16,7 +16,13 @@
     "Zip": 46038,
     "LocationCode": 1,
     "Directions": "Right off I-69",
-    "Rural": ""
+    "Rural": "",
+    "RRN": 1140,
+    "ServiceLocationRRN": 1140,
+    "E_orT": "T",
+    "Description": "R100J25640",
+    "LinkedToEquipmentOrTankR": 3,
+    "DateOfLastServicePerformed": "00000000"
   },
   {
     "index": 1,
@@ -35,7 +41,13 @@
     "Zip": 46260,
     "LocationCode": 2,
     "Directions": "",
-    "Rural": "1"
+    "Rural": "1",
+    "RRN": 1155,
+    "ServiceLocationRRN": 1155,
+    "E_orT": "E",
+    "Description": "TANKLESS W/H",
+    "LinkedToEquipmentOrTankR": 0,
+    "DateOfLastServicePerformed": "00000000"
   },
   {
     "index": 2,
@@ -54,6 +66,12 @@
     "Zip": 46038,
     "LocationCode": 1,
     "Directions": "Head west on 116th St",
-    "Rural": ""
+    "Rural": "",
+    "RRN": 1174,
+    "ServiceLocationRRN": 1174,
+    "E_orT": "T",
+    "Description": "A162773",
+    "LinkedToEquipmentOrTankR": 38,
+    "DateOfLastServicePerformed": "00000000"
   }
 ]

@@ -151,7 +151,7 @@
     "customerNumber": 803542,
     "tankSerialNumber": 4752332,
     "capacity": 200,
-    "holdEstimate": "yES",
+    "holdEstimate": "Yes",
     "releaseDate": "2019-03-17",
     "updateKFactor": "Yes",
     "route": 1,

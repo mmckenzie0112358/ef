@@ -1,0 +1,44 @@
+[
+  {
+    "StartTime": "04:00:00",
+    "Task": "SDDBatch",
+    "LastRunDate": "04/05/2019",
+    "LastRunTime": "04:00:14",
+    "LastDuration": "00:00:56"
+  },
+  {
+    "StartTime": "04:00:01",
+    "Task": "RTM Import",
+    "LastRunDate": "04/05/2019",
+    "LastRunTime": "04:01:10",
+    "LastDuration": "00:00:04"
+  },
+  {
+    "StartTime": "04:00:02",
+    "Task": "Post ReEngineered ET",
+    "LastRunDate": "04/05/2019",
+    "LastRunTime": "04:01:14",
+    "LastDuration": "00:03:45"
+  },
+  {
+    "StartTime": "04:00:03",
+    "Task": "Run Optimizer",
+    "LastRunDate": "04/05/2019",
+    "LastRunTime": "04:04:59",
+    "LastDuration": "00:08:38"
+  },
+  {
+    "StartTime": "04:00:04",
+    "Task": "Post Mobile Service",
+    "LastRunDate": "04/05/2019",
+    "LastRunTime": "04:13:37",
+    "LastDuration": "00:00:42"
+  },
+  {
+    "StartTime": "04:00:05",
+    "Task": "Download to ReEngineered",
+    "LastRunDate": "04/05/2019",
+    "LastRunTime": "04:14:19",
+    "LastDuration": "00:01:12"
+  }
+]

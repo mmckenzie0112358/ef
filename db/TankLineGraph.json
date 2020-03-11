@@ -1,182 +1,98 @@
 [
   {
-    "month": "Jan",
-    "date": "01/18-12/18",
-    "temperature": "7"
+    "index": 0,
+    "TankNumber": 13065,
+    "Month": "January",
+    "PriorYear": 1000,
+    "LastYear": 500,
+    "CurrentYear": 700
   },
   {
-    "month": "Jan",
-    "date": "01/19-12/19",
-    "temperature": "3.9"
+    "index": 1,
+    "TankNumber": 13065,
+    "Month": "February",
+    "PriorYear": 900,
+    "LastYear": 800,
+    "CurrentYear": 1000
   },
   {
-    "month": "Jan",
-    "date": "01/17-12/17",
-    "temperature": "4"
+    "index": 2,
+    "TankNumber": 13065,
+    "Month": "March",
+    "PriorYear": 500,
+    "LastYear": 600,
+    "CurrentYear": 450
   },
   {
-    "month": "Feb",
-    "date": "01/18-12/18",
-    "temperature": "6.9"
+    "index": 3,
+    "TankNumber": 13065,
+    "Month": "April",
+    "PriorYear": 200,
+    "LastYear": 250,
+    "CurrentYear": 0
   },
   {
-    "month": "Feb",
-    "date": "01/17-12/17",
-    "temperature": "5"
+    "index": 4,
+    "TankNumber": 13065,
+    "Month": "May",
+    "PriorYear": 0,
+    "LastYear": 100,
+    "CurrentYear": 50
   },
   {
-    "month": "Feb",
-    "date": "01/19-12/19",
-    "temperature": "4.2"
+    "index": 5,
+    "TankNumber": 13065,
+    "Month": "June",
+    "PriorYear": 50,
+    "LastYear": 0,
+    "CurrentYear": 2
   },
   {
-    "month": "Mar",
-    "date": "01/18-12/18",
-    "temperature": "9.5"
+    "index": 6,
+    "TankNumber": 13065,
+    "Month": "July",
+    "PriorYear": 0,
+    "LastYear": 50,
+    "CurrentYear": 50
   },
   {
-    "month": "Mar",
-    "date": "01/17-12/17",
-    "temperature": "6.7"
+    "index": 7,
+    "TankNumber": 13065,
+    "Month": "August",
+    "PriorYear": 55,
+    "LastYear": 200,
+    "CurrentYear": 20
   },
   {
-    "month": "Mar",
-    "date": "01/19-12/19",
-    "temperature": "5.7"
+    "index": 8,
+    "TankNumber": 13065,
+    "Month": "September",
+    "PriorYear": 200,
+    "LastYear": 300,
+    "CurrentYear": 100
   },
   {
-    "month": "Apr",
-    "date": "01/18-12/18",
-    "temperature": "14.5"
+    "index": 9,
+    "TankNumber": 13065,
+    "Month": "October",
+    "PriorYear": 400,
+    "LastYear": 450,
+    "CurrentYear": 350
   },
   {
-    "month": "Apr",
-    "date": "01/17-12/17",
-    "temperature": "17"
+    "index": 10,
+    "TankNumber": 13065,
+    "Month": "November",
+    "PriorYear": 850,
+    "LastYear": 750,
+    "CurrentYear": 975
   },
   {
-    "month": "Apr",
-    "date": "01/19-12/19",
-    "temperature": "8.5"
-  },
-  {
-    "month": "May",
-    "date": "01/18-12/18",
-    "temperature": "18.4"
-  },
-  {
-    "month": "May",
-    "date": "01/17-12/17",
-    "temperature": "20"
-  },
-  {
-    "month": "May",
-    "date": "01/19-12/19",
-    "temperature": "11.9"
-  },
-  {
-    "month": "Jun",
-    "date": "01/18-12/18",
-    "temperature": "21.5"
-  },
-  {
-    "month": "Jun",
-    "date": "01/17-12/17",
-    "temperature": "23"
-  },
-  {
-    "month": "Jun",
-    "date": "01/19-12/19",
-    "temperature": "15.2"
-  },
-  {
-    "month": "Jul",
-    "date": "01/18-12/18",
-    "temperature": "25.2"
-  },
-  {
-    "month": "Jul",
-    "date": "01/17-12/17",
-    "temperature": "27"
-  },
-  {
-    "month": "Jul",
-    "date": "01/19-12/19",
-    "temperature": "17"
-  },
-  {
-    "month": "Aug",
-    "date": "01/18-12/18",
-    "temperature": "26.5"
-  },
-  {
-    "month": "Aug",
-    "date": "01/17-12/17",
-    "temperature": "28.5"
-  },
-  {
-    "month": "Aug",
-    "date": "01/19-12/19",
-    "temperature": "16.6"
-  },
-  {
-    "month": "Sep",
-    "date": "01/18-12/18",
-    "temperature": "23.3"
-  },
-  {
-    "month": "Sep",
-    "date": "01/17-12/17",
-    "temperature": "27.3"
-  },
-  {
-    "month": "Sep",
-    "date": "01/19-12/19",
-    "temperature": "14.2"
-  },
-  {
-    "month": "Oct",
-    "date": "01/18-12/18",
-    "temperature": "18.3"
-  },
-  {
-    "month": "Oct",
-    "date": "01/17-12/17",
-    "temperature": "27"
-  },
-  {
-    "month": "Oct",
-    "date": "01/19-12/19",
-    "temperature": "10.3"
-  },
-  {
-    "month": "Nov",
-    "date": "01/18-12/18",
-    "temperature": "13.9"
-  },
-  {
-    "month": "Nov",
-    "date": "01/17-12/17",
-    "temperature": "20"
-  },
-  {
-    "month": "Nov",
-    "date": "01/19-12/19",
-    "temperature": "6.6"
-  },
-  {
-    "month": "Dec",
-    "date": "01/18-12/18",
-    "temperature": "9.6"
-  },
-  {
-    "month": "Dec",
-    "date": "01/17-12/17",
-    "temperature": "15"
-  },
-  {
-    "month": "Dec",
-    "date": "01/19-12/19",
-    "temperature": "4.8"
+    "index": 11,
+    "TankNumber": 13065,
+    "Month": "December",
+    "PriorYear": 950,
+    "LastYear": 600,
+    "CurrentYear": 1000
   }
 ]

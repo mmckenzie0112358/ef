@@ -3,43 +3,38 @@
     "index": 0,
     "DivisionNumber": 1,
     "DD_RegionCode": 1,
-    "ReadingDate": "2019-04-05",
     "OldDegreeDayReading": 3789,
     "NewDegreeDayReading": 3801,
     "LastYearReading": 3773
   },
   {
     "index": 1,
-    "DivisionNumber": 1,
-    "DD_RegionCode": 1,
-    "ReadingDate": "2019-04-04",
+    "DivisionNumber": 2,
+    "DD_RegionCode": 2,
     "OldDegreeDayReading": 3776,
     "NewDegreeDayReading": 3789,
     "LastYearReading": 3767
   },
   {
     "index": 2,
-    "DivisionNumber": 1,
-    "DD_RegionCode": 1,
-    "ReadingDate": "2019-04-03",
+    "DivisionNumber": 3,
+    "DD_RegionCode": 3,
     "OldDegreeDayReading": 3753,
     "NewDegreeDayReading": 3776,
     "LastYearReading": 3749
   },
   {
     "index": 3,
-    "DivisionNumber": 1,
-    "DD_RegionCode": 1,
-    "ReadingDate": "2019-04-02",
+    "DivisionNumber": 4,
+    "DD_RegionCode": 4,
     "OldDegreeDayReading": 3725,
     "NewDegreeDayReading": 3753,
     "LastYearReading": 3729
   },
   {
     "index": 4,
-    "DivisionNumber": 1,
-    "DD_RegionCode": 1,
-    "ReadingDate": "2019-04-01",
+    "DivisionNumber": 5,
+    "DD_RegionCode": 5,
     "OldDegreeDayReading": 3715,
     "NewDegreeDayReading": 3725,
     "LastYearReading": 3719

@@ -2,6 +2,7 @@
   {
     "index": 0,
     "Proposal": 1,
+    "Div": 1,
     "DetailSeq": 8572,
     "SortSeq": 1,
     "Location": "MAIN WAREHOUSE",
@@ -19,6 +20,7 @@
   {
     "index": 1,
     "Proposal": 1,
+    "Div": 1,
     "DetailSeq": 8834,
     "SortSeq": 2,
     "Location": "MAIN WAREHOUSE",
@@ -36,6 +38,7 @@
   {
     "index": 2,
     "Proposal": 1,
+    "Div": 1,
     "DetailSeq": 8844,
     "SortSeq": 3,
     "Location": "MAIN WAREHOUSE",
@@ -53,6 +56,7 @@
   {
     "index": 3,
     "Proposal": 1,
+    "Div": 1,
     "DetailSeq": 8751,
     "SortSeq": 4,
     "Location": "MAIN WAREHOUSE",
@@ -70,6 +74,7 @@
   {
     "index": 4,
     "Proposal": 1,
+    "Div": 1,
     "DetailSeq": 8833,
     "SortSeq": 5,
     "Location": "MAIN WAREHOUSE",
@@ -87,6 +92,7 @@
   {
     "index": 5,
     "Proposal": 1,
+    "Div": 1,
     "DetailSeq": 8836,
     "SortSeq": 6,
     "Location": "MAIN WAREHOUSE",
@@ -104,6 +110,7 @@
   {
     "index": 6,
     "Proposal": 1,
+    "Div": 1,
     "DetailSeq": 8838,
     "SortSeq": 7,
     "Location": "MAIN WAREHOUSE",
@@ -121,6 +128,7 @@
   {
     "index": 7,
     "Proposal": 1,
+    "Div": 1,
     "DetailSeq": 8839,
     "SortSeq": 8,
     "Location": "MAIN WAREHOUSE",
@@ -138,6 +146,7 @@
   {
     "index": 8,
     "Proposal": 1,
+    "Div": 1,
     "DetailSeq": 8840,
     "SortSeq": 9,
     "Location": "MAIN WAREHOUSE",
@@ -155,6 +164,7 @@
   {
     "index": 9,
     "Proposal": 1,
+    "Div": 1,
     "DetailSeq": 8841,
     "SortSeq": 10,
     "Location": "MAIN WAREHOUSE",
@@ -172,6 +182,7 @@
   {
     "index": 10,
     "Proposal": 1,
+    "Div": 1,
     "DetailSeq": 8842,
     "SortSeq": 11,
     "Location": "MAIN WAREHOUSE",
@@ -189,6 +200,7 @@
   {
     "index": 11,
     "Proposal": 2,
+    "Div": 1,
     "DetailSeq": 8882,
     "SortSeq": 1,
     "Location": "MAIN WAREHOUSE",
@@ -206,6 +218,7 @@
   {
     "index": 12,
     "Proposal": 2,
+    "Div": 1,
     "DetailSeq": 8883,
     "SortSeq": 2,
     "Location": "MAIN WAREHOUSE",
@@ -223,6 +236,7 @@
   {
     "index": 13,
     "Proposal": 2,
+    "Div": 1,
     "DetailSeq": 8884,
     "SortSeq": 3,
     "Location": "MAIN WAREHOUSE",

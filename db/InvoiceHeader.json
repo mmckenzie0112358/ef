@@ -2,6 +2,7 @@
   {
     "index": 0,
     "Invoice": 1,
+    "Div": 1,
     "SOrP": "P",
     "InvoiceActive": "A",
     "BillToCustomerNumber": 123456,
@@ -35,6 +36,7 @@
   {
     "index": 1,
     "Invoice": 2,
+    "Div": 1,
     "SOrP": "S",
     "InvoiceActive": "A",
     "BillToCustomerNumber": 123457,
@@ -68,6 +70,7 @@
   {
     "index": 2,
     "Invoice": 3,
+    "Div": 1,
     "SOrP": "S",
     "InvoiceActive": "A",
     "BillToCustomerNumber": 123458,
@@ -101,6 +104,7 @@
   {
     "index": 3,
     "Invoice": 4,
+    "Div": 1,
     "SOrP": "S",
     "InvoiceActive": "A",
     "BillToCustomerNumber": 123460,

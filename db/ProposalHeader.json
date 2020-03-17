@@ -2,6 +2,7 @@
   {
     "index": 0,
     "Proposal": 1,
+    "Div": 1,
     "ProposalActive": "A",
     "BillToCustomerNumber": 123480,
     "BillingNoBlankAddress1": "Solo, Luke",
@@ -32,6 +33,7 @@
   {
     "index": 1,
     "Proposal": 2,
+    "Div": 1,
     "ProposalActive": "A",
     "BillToCustomerNumber": 123479,
     "BillingNoBlankAddress1": "Michaelson, Michael",

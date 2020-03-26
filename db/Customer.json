@@ -51,7 +51,7 @@
     "aud_LastPaymentAmount": 125.78,
     "aud_MemberIdNumber": 3,
     "AddressID": 76,
-    "ActiveOrInactive": "A",
+    "aud:ActiveOrInactive": "A",
     "CycleCode": 1,
     "aud_ActiveInactiveDate": "00/00/00",
     "invoiceCycleCode": 1,

@@ -1,6 +1,7 @@
 [
   {
     "index": 0,
+    "key": 0,
     "proposal_": 1,
     "_DivisionNumber": 1,
     "ProposalActive": true,
@@ -32,6 +33,7 @@
   },
   {
     "index": 1,
+    "key": 1,
     "proposal_": 2,
     "_DivisionNumber": 1,
     "ProposalActive": true,

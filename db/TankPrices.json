@@ -1,26 +1,28 @@
 [
   {
-    "TankSerialNumber": 180206,
-    "TankName": "Hubris",
-    "TotCap": 0,
-    "Route": 6,
-    "PriceTier": "1 A",
-    "Description": "AUTO DELIV-COMPAN",
+    "rmTankSerialNumber": 180206,
+    "tnkTankTypeCode": "P",
+    "tankName": "Hubris",
+    "totalTanksCapacity": 0,
+    "route": 6,
+    "priceCode": "1 A",
+    "priceDescription": "AUTO DELIV-COMPAN",
     "Current": "$4.9500",
     "Average": "0.000",
-    "HoldStartEnd": "12/10/18  02/04/19",
-    "Reason": ""
+    "holdDate": "12/10/18  02/04/19",
+    "holdReasonCode": ""
   },
   {
-    "TankSerialNumber": "A196085",
-    "TankName": "D12",
-    "TotCap": 250,
-    "Route": 6,
+    "rmTankSerialNumber": "A196085",
+    "tnkTankTypeCode": "P",
+    "tankName": "D12",
+    "totalTanksCapacity": 250,
+    "route": 6,
     "PriceTier": "1 A",
-    "Description": "AUTO DELIV-COMPAN",
+    "priceDescription": "AUTO DELIV-COMPAN",
     "Current": "$4.2500",
     "Average": "0.000",
-    "HoldStartEnd": "01/10/19  04/12/19",
-    "Reason": "PROPERTY SOLD"
+    "holdDate": "01/10/19  04/12/19",
+    "holdReasonCode": "PROPERTY SOLD"
   }
 ]

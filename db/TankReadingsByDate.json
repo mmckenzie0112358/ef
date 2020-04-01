@@ -1,0 +1,28 @@
+[
+  {
+    "tankSerialNumber": "813765",
+    "tankRrn": 13856,
+    "tnkTankTypeCode": "P",
+    "activeOrInactive": "A",
+    "tankCapacity": 120,
+    "tankName": "HUBRIS",
+    "kFactor": "0.05",
+    "holdReleaseDate": "00/00/00",
+    "holdDate": "00/00/00",
+    "holdK_FactorCalculations": "N",
+    "dailyUse": 0
+  },
+  {
+    "tankSerialNumber": "9245422",
+    "tankRrn": 13876,
+    "tnkTankTypeCode": "P",
+    "activeOrInactive": "A",
+    "tankCapacity": 400,
+    "tankName": "D12",
+    "kFactor": "0.60",
+    "holdReleaseDate": "00/00/00",
+    "holdDate": "00/00/00",
+    "holdK_FactorCalculations": "y",
+    "dailyUse": 0
+  }
+]

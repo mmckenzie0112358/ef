@@ -27,7 +27,9 @@
     "aud_CentsDown": 0.25,
     "aud_PrepaidBalance": 25.0,
     "aud_DepartmentPrepaid": 1,
-    "CycleCode": 1
+    "CycleCode": 1,
+    "aud_ContractGasPrice": 2.949,
+    "description": "PRE PAY CONTRACT"
   },
   {
     "index": 1,
@@ -57,7 +59,9 @@
     "aud_CentsDown": 0.0,
     "aud_PrepaidBalance": 0.0,
     "aud_DepartmentPrepaid": 0,
-    "CycleCode": 2
+    "CycleCode": 2,
+    "aud_ContractGasPrice": 2.992,
+    "description": "HEAP"
   },
   {
     "index": 2,
@@ -87,6 +91,8 @@
     "aud_CentsDown": 0.5,
     "aud_PrepaidBalance": 50.0,
     "aud_DepartmentPrepaid": 1,
-    "CycleCode": 2
+    "CycleCode": 2,
+    "aud_ContractGasPrice": 1.989,
+    "description": "SALES REP RATE"
   }
 ]

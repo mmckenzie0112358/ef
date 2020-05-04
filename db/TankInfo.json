@@ -93,7 +93,8 @@
     "LatDeg": "0.000",
     "LatMin": 0,
     "MapLatitude": -383073760,
-    "MapLongitude": -766474670
+    "MapLongitude": -766474670,
+    "id": 0
   },
   {
     "index": 1,
@@ -189,7 +190,8 @@
     "LatDeg": "0.000",
     "LatMin": 0,
     "MapLatitude": -383073760,
-    "MapLongitude": -766474670
+    "MapLongitude": -766474670,
+    "id": 1
   },
   {
     "index": 2,
@@ -285,7 +287,8 @@
     "LatDeg": "0.000",
     "LatMin": 0,
     "MapLatitude": -383073760,
-    "MapLongitude": -766474670
+    "MapLongitude": -766474670,
+    "id": 2
   },
   {
     "index": 3,
@@ -381,6 +384,7 @@
     "LatDeg": "0.000",
     "LatMin": 0,
     "MapLatitude": -383073760,
-    "MapLongitude": -766474670
+    "MapLongitude": -766474670,
+    "id": 3
   }
 ]

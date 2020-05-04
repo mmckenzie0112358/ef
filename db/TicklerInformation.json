@@ -2,7 +2,7 @@
   {
     "index": 0,
     "divisionNumber": 1,
-    "aud_TicklerCustomerNumber ": 199072,
+    "aud_TicklerCustomerNumber": 199072,
     "name": "ADAMS, RICHARD",
     "aud_TankSerialNumber": "D34T56J7",
     "aud_TicklerLocation": "37",
@@ -22,7 +22,7 @@
   {
     "index": 1,
     "divisionNumber": 1,
-    "aud_TicklerCustomerNumber ": 100972,
+    "aud_TicklerCustomerNumber": 100972,
     "name": "GARY JR, HARRY",
     "aud_TankSerialNumber": "FREGTYJ775",
     "aud_TicklerLocation": "83",
@@ -42,7 +42,7 @@
   {
     "index": 2,
     "divisionNumber": 1,
-    "aud_TicklerCustomerNumber ": 199072,
+    "aud_TicklerCustomerNumber": 199072,
     "name": "ADAMS, RICHARD",
     "aud_TankSerialNumber": "D34G65JYUY",
     "aud_TicklerLocation": "26",

@@ -34,7 +34,7 @@
     "aud_TicklerStickynote_": false,
     "PartialMsg": "06/12 Kevin picked up 1-547",
     "Name": "STEVEN'S BODY SHOP",
-    "aud_TicklerMessage": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
+    "aud_TicklerMessage": "06/12 Kevin picked up 1-547, will return in the next 10 days.",
     "phone": "(555)536-9001",
     "aud_UserIDSecurity": "Michael 12/20/19 09:13:22",
     "id": 1
@@ -54,7 +54,7 @@
     "aud_TicklerStickynote_": false,
     "PartialMsg": "Called William, he paid",
     "Name": "1ST CLASS AUTO SALES",
-    "aud_TicklerMessage": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
+    "aud_TicklerMessage": "Called William, he paid full amount with additional to cover overage.",
     "phone": "(555)536-9001",
     "aud_UserIDSecurity": "Ashley 11/21/19 11:31:02",
     "id": 2
@@ -74,7 +74,7 @@
     "aud_TicklerStickynote_": true,
     "PartialMsg": "Left msg with mechanic",
     "Name": "1ST CLASS AUTO SALES",
-    "aud_TicklerMessage": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
+    "aud_TicklerMessage": "Left msg with mechanic, leak is still not fixed.",
     "phone": "(555)536-9001",
     "aud_UserIDSecurity": "Chaz 11/19/19 10:19:35",
     "id": 3
@@ -92,9 +92,9 @@
     "aud_TicklerPriority": 1,
     "aud_TicklerCompleted": true,
     "aud_TicklerStickynote_": false,
-    "PartialMsg": "01/31 KEvin cleaned and",
+    "PartialMsg": "01/31 Kevin cleaned and",
     "Name": "1ST CLASS AUTO SALES",
-    "aud_TicklerMessage": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
+    "aud_TicklerMessage": "01/31 Kevin cleaned and advised on status of credit default.",
     "phone": "(555)536-9001",
     "aud_UserIDSecurity": "Chaz 11/10/19 11:20:21",
     "id": 4
@@ -134,7 +134,7 @@
     "aud_TicklerStickynote_": true,
     "PartialMsg": "Customer called and paid",
     "Name": "1ST CLASS AUTO SALES",
-    "aud_TicklerMessage": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
+    "aud_TicklerMessage": "Customer called and paid lower amount, will continue on payment plan.",
     "phone": "(555)536-9001",
     "aud_UserIDSecurity": "Michael 11/01/19 08:42:12",
     "id": 6
@@ -152,9 +152,9 @@
     "aud_TicklerPriority": 0,
     "aud_TicklerCompleted": true,
     "aud_TicklerStickynote_": false,
-    "PartialMsg": "3/13 mike leak & soap",
+    "PartialMsg": "5/16 mike leak & soap",
     "Name": "1ST CLASS AUTO SALES",
-    "aud_TicklerMessage": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
+    "aud_TicklerMessage": "5/16 mike leak & soap tested system found many leaks & all looks good could not get inside.",
     "phone": "(555)536-9001",
     "aud_UserIDSecurity": "Ashley 10/31/19 12:20:31",
     "id": 7

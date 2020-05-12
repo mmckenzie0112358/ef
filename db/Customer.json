@@ -68,7 +68,7 @@
     "aud_NoOfBudgetPymntsMade": 2,
     "aud_PriorYearBudget": 850.0,
     "aud_BudgetBeginPeriod": 5,
-    "aud_aud_BudgetEndPeriod": 7,
+    "aud_BudgetEndPeriod": 7,
     "aud_NoOfBillingPeriods": 11,
     "TotNoOfBudgetPayments": 11,
     "description": "I",

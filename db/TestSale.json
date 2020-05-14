@@ -13,10 +13,10 @@
     "State": "NY",
     "County": "SARATOGA, NY",
     "SN": "",
-    "SalesTax": true,
+    "SalesTax": false,
     "FedTax": false,
     "OtherTax": true,
-    "Township": "SARA:SARATOGA SPGS TWP",
+    "Township": "SARATOGA SPGS TWP",
     "SchoolDistrict": "SARATOGA SPRINGS CSD"
   },
   {
@@ -35,8 +35,8 @@
     "SN": "",
     "SalesTax": true,
     "FedTax": false,
-    "OtherTax": true,
-    "Township": "SARA:SARATOGA SPGS TWP",
+    "OtherTax": false,
+    "Township": "SARATOGA SPGS TWP",
     "SchoolDistrict": "SARATOGA SPRINGS CSD"
   },
   {
@@ -53,10 +53,10 @@
     "State": "NY",
     "County": "SARATOGA SPRINGS CITY TAX",
     "SN": "20# TANKS",
-    "SalesTax": true,
-    "FedTax": false,
-    "OtherTax": true,
-    "Township": "SARA:SARATOGA SPGS TWP",
+    "SalesTax": false,
+    "FedTax": true,
+    "OtherTax": false,
+    "Township": "SARATOGA SPGS TWP",
     "SchoolDistrict": "SARATOGA SPRINGS CSD"
   }
 ]

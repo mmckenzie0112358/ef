@@ -1,0 +1,35 @@
+[
+  {
+    "index": 0,
+    "serviceOrderType": 27,
+    "serviceOrderDesc_": "Annual Service Oil",
+    "allowedPerDay": 2,
+    "typicalTime": "02:00:00",
+    "techType": 2,
+    "efSeq": 2,
+    "techType1": "SERVICE TECHNICIAN",
+    "numberOfTechs": 1
+  },
+  {
+    "index": 1,
+    "serviceOrderType": 28,
+    "serviceOrderDesc_": "Annual Service Gas",
+    "allowedPerDay": 5,
+    "typicalTime": "02:00:00",
+    "techType": 2,
+    "efSeq": 2,
+    "techType1": "SERVICE TECHNICIAN",
+    "numberOfTechs": 1
+  },
+  {
+    "index": 2,
+    "serviceOrderType": 29,
+    "serviceOrderDesc_": "Annual Service Mobile Home",
+    "allowedPerDay": 2,
+    "typicalTime": "01:30:00",
+    "techType": 2,
+    "efSeq": 2,
+    "techType1": "SERVICE TECHNICIAN",
+    "numberOfTechs": 1
+  }
+]

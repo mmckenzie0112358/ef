@@ -1,0 +1,12 @@
+[
+  {
+    "index": 0,
+    "closeCode": 2,
+    "closeDesc_": "Closed"
+  },
+  {
+    "index": 1,
+    "closeCode": 5,
+    "closeDesc_": "Cancelled"
+  }
+]

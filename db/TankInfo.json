@@ -25,6 +25,8 @@
     "aud_BusinessOwnsTank": "Y",
     "aud_TankName": "Tank is in good condition",
     "customerType": 2,
+    "aud_CustomerType": ["customerType"],
+
     "customerTypeDescription": "Commercial",
     "deliveryTypeCode": 2,
     "deliveryTypeDescription": "Commercial",
@@ -124,6 +126,7 @@
     "aud_BusinessOwnsTank": "N",
     "aud_TankName": "Description of tank",
     "customerType": 1,
+    "aud_CustomerType": ["customerType"],
     "customerTypeDescription": "Residential",
     "deliveryTypeCode": 2,
     "deliveryTypeDescription": "Commercial",
@@ -223,6 +226,7 @@
     "aud_BusinessOwnsTank": "N",
     "aud_TankName": "Description of tank",
     "customerType": 2,
+    "aud_CustomerType": ["customerType"],
     "customerTypeDescription": "Commercial",
     "deliveryTypeCode": 2,
     "deliveryTypeDescription": "Commercial",
@@ -322,6 +326,8 @@
     "aud_BusinessOwnsTank": "Y",
     "aud_TankName": "It is a tank which exist under the Ground",
     "customerType": 1,
+    "aud_CustomerType": ["customerType"],
+
     "customerTypeDescription": "Residential",
     "deliveryTypeCode": 1,
     "deliveryTypeDescription": "Residential",

@@ -2,11 +2,11 @@
   {
     "index": 0,
     "tankSerialNumber": 5432905,
-    "callInDate": "10/29/19",
+    "callInDate": "2019-10-29",
     "callInTime": "10:51:39",
     "estimatedPercent": 35,
     "minimumGallonDelivery": 0,
-    "datePosted": "11/06/18",
+    "datePosted": "2018-11-20",
     "comment": "Fill & bill @ reg rate",
     "tankName": "Hubris",
     "enteredBy": "Alexis"
@@ -14,11 +14,11 @@
   {
     "index": 1,
     "tankSerialNumber": 1236733,
-    "callInDate": "06/02/17",
+    "callInDate": "2019-10-29",
     "callInTime": "10:19:42",
     "estimatedPercent": 49,
     "minimumGallonDelivery": 0,
-    "datePosted": "06/05/17",
+    "datePosted": "2018-11-20",
     "comment": "Fill and bill at reg rate",
     "tankName": "E32",
     "enteredBy": "Ashley"
@@ -26,11 +26,11 @@
   {
     "index": 2,
     "tankSerialNumber": 9091457,
-    "callInDate": "10/03/16",
+    "callInDate": "2019-10-29",
     "callInTime": "09:04:12",
     "estimatedPercent": 40,
     "minimumGallonDelivery": 0,
-    "datePosted": "10/05/16",
+    "datePosted": "2018-11-20",
     "comment": "Fill and bill at reg rate, Customer owns tank",
     "tankName": "F4",
     "enteredBy": "Ashley"
@@ -38,11 +38,11 @@
   {
     "index": 3,
     "tankSerialNumber": 78654332,
-    "callInDate": "10/05/16",
+    "callInDate": "2019-10-29",
     "callInTime": "08:04:22",
     "estimatedPercent": 40,
     "minimumGallonDelivery": 0,
-    "datePosted": "10/12/15",
+    "datePosted": "2018-11-20",
     "comment": "Fill and bill at regular rate. Pool heater needs work",
     "tankName": "A12",
     "enteredBy": "Alexis"
@@ -50,11 +50,11 @@
   {
     "index": 4,
     "tankSerialNumber": 5432905,
-    "callInDate": "04/10/16",
+    "callInDate": "2019-10-29",
     "callInTime": "10:15:20",
     "estimatedPercent": 20,
     "minimumGallonDelivery": 0,
-    "datePosted": "05/20/16",
+    "datePosted": "2018-11-20",
     "comment": "Fill and bill at reg rate. customer owns tank",
     "tankName": "G6",
     "enteredBy": "Idea"

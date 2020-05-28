@@ -411,8 +411,8 @@
     "Latitude": "0.0000000",
     "LatDeg": "0.000",
     "LatMin": 0,
-    "MapLatitude": -383073760,
-    "MapLongitude": -766474670,
+    "MapLatitude": 0,
+    "MapLongitude": 0,
     "id": 3
   }
 ]

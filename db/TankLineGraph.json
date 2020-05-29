@@ -2,7 +2,7 @@
   {
     "index": 0,
     "TankNumber": 13065,
-    "Month": "Jan",
+    "Month": "January",
     "PriorYear": 1000,
     "LastYear": 500,
     "CurrentYear": 700
@@ -10,7 +10,7 @@
   {
     "index": 1,
     "TankNumber": 13065,
-    "Month": "Feb",
+    "Month": "February",
     "PriorYear": 900,
     "LastYear": 800,
     "CurrentYear": 1000
@@ -18,7 +18,7 @@
   {
     "index": 2,
     "TankNumber": 13065,
-    "Month": "Mar",
+    "Month": "March",
     "PriorYear": 500,
     "LastYear": 600,
     "CurrentYear": 450
@@ -26,7 +26,7 @@
   {
     "index": 3,
     "TankNumber": 13065,
-    "Month": "Apr",
+    "Month": "April",
     "PriorYear": 200,
     "LastYear": 250,
     "CurrentYear": 0
@@ -58,7 +58,7 @@
   {
     "index": 7,
     "TankNumber": 13065,
-    "Month": "Aug",
+    "Month": "August",
     "PriorYear": 55,
     "LastYear": 200,
     "CurrentYear": 20
@@ -66,7 +66,7 @@
   {
     "index": 8,
     "TankNumber": 13065,
-    "Month": "Sep",
+    "Month": "September",
     "PriorYear": 200,
     "LastYear": 300,
     "CurrentYear": 100
@@ -74,7 +74,7 @@
   {
     "index": 9,
     "TankNumber": 13065,
-    "Month": "Oct",
+    "Month": "October",
     "PriorYear": 400,
     "LastYear": 450,
     "CurrentYear": 350
@@ -82,7 +82,7 @@
   {
     "index": 10,
     "TankNumber": 13065,
-    "Month": "Nov",
+    "Month": "November",
     "PriorYear": 850,
     "LastYear": 750,
     "CurrentYear": 975
@@ -90,7 +90,7 @@
   {
     "index": 11,
     "TankNumber": 13065,
-    "Month": "Dec",
+    "Month": "December",
     "PriorYear": 950,
     "LastYear": 600,
     "CurrentYear": 1000

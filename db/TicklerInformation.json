@@ -16,7 +16,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Ashley 2019-12-23 10:38:56",
+    "aud_UserIDSecurity": "Ashley 12/23/19 10:38:56",
     "id": 0
   },
   {
@@ -36,7 +36,7 @@
     "Name": "STEVEN'S BODY SHOP",
     "aud_TicklerMessage": "06/12 Kevin picked up 1-547, will return in the next 10 days.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Michael 2019-12-20 09:13:22",
+    "aud_UserIDSecurity": "Michael 12/20/19 09:13:22",
     "id": 1
   },
   {
@@ -56,7 +56,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "Called William, he paid full amount with additional to cover overage.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Ashley 2019-11-23 11:31:02",
+    "aud_UserIDSecurity": "Ashley 11/21/19 11:31:02",
     "id": 2
   },
   {
@@ -76,7 +76,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "Left msg with mechanic, leak is still not fixed.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Chaz 2019-12-23 10:19:35",
+    "aud_UserIDSecurity": "Chaz 11/19/19 10:19:35",
     "id": 3
   },
   {
@@ -96,7 +96,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "01/31 Kevin cleaned and advised on status of credit default.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Chaz 2019-12-23 11:20:21",
+    "aud_UserIDSecurity": "Chaz 11/10/19 11:20:21",
     "id": 4
   },
   {
@@ -116,7 +116,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Ashley 2019-12-23 10:20:58",
+    "aud_UserIDSecurity": "Ashley 11/10/19 10:20:58",
     "id": 5
   },
   {
@@ -136,7 +136,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "Customer called and paid lower amount, will continue on payment plan.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Michael 2019-12-23 08:42:12",
+    "aud_UserIDSecurity": "Michael 11/01/19 08:42:12",
     "id": 6
   },
   {
@@ -148,7 +148,7 @@
     "aud_TicklerLocation": "34",
     "aud_TicklerType": "Collections",
     "aud_TicklerRequestedBy": "Michael",
-    "aud_TicklerDueDate": "",
+    "aud_TicklerDueDate": "0000-00-00",
     "aud_TicklerPriority": 0,
     "aud_TicklerCompleted": true,
     "aud_TicklerStickynote_": false,
@@ -156,7 +156,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "5/16 mike leak & soap tested system found many leaks & all looks good could not get inside.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Ashley 2019-12-23 12:20:31",
+    "aud_UserIDSecurity": "Ashley 10/31/19 12:20:31",
     "id": 7
   }
 ]

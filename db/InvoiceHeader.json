@@ -16,7 +16,7 @@
     "shipToNoBlankAddress3": "Fishers, IN 46038",
     "shipToNoBlankAddress4": "",
     "serviceLocation_": 1234,
-    "invoiceDate": "2015-08-20",
+    "invoiceDate": "08/20/2015",
     "serviceOrderType": 54,
     "serviceOrderDesc_": "COMMERCIAL KITCHEN SERVICE",
     "message": "",
@@ -31,8 +31,8 @@
     "Posted": true,
     "Inactivated": "N",
     "InactiveUser": "",
-    "InactiveDate": "",
-    "InactiveTime": ""
+    "InactiveDate": "00/00/0000",
+    "InactiveTime": "00:00:00"
   },
   {
     "index": 1,
@@ -51,7 +51,7 @@
     "shipToNoBlankAddress3": "Indianapolis, IN 46260",
     "shipToNoBlankAddress4": "",
     "serviceLocation_": 2345,
-    "invoiceDate": "2015-08-20",
+    "invoiceDate": "06/12/2018",
     "serviceOrderType": 37,
     "serviceOrderDesc_": "WH INSTALL TRADITIONAL",
     "message": "Thank you very much for your continued business",
@@ -66,8 +66,8 @@
     "Posted": true,
     "Inactivated": "N",
     "InactiveUser": "",
-    "InactiveDate": "",
-    "InactiveTime": ""
+    "InactiveDate": "00/00/0000",
+    "InactiveTime": "00:00:00"
   },
   {
     "index": 2,
@@ -86,7 +86,7 @@
     "shipToNoBlankAddress3": "Fishers, IN 46038",
     "shipToNoBlankAddress4": "",
     "serviceLocation_": 7621,
-    "invoiceDate": "2015-08-20",
+    "invoiceDate": "10/01/2015",
     "serviceOrderType": 35,
     "serviceOrderDesc_": "VENTED FIREPLACE CLEAN & SERVICE",
     "message": "",
@@ -101,8 +101,8 @@
     "Posted": true,
     "Inactivated": "N",
     "InactiveUser": "",
-    "InactiveDate": "",
-    "InactiveTime": ""
+    "InactiveDate": "00/00/0000",
+    "InactiveTime": "00:00:00"
   },
   {
     "index": 3,
@@ -121,10 +121,10 @@
     "shipToNoBlankAddress3": "Fishers, IN 46038",
     "shipToNoBlankAddress4": "",
     "serviceLocation_": 10619,
-    "invoiceDate": "2015-08-20",
+    "invoiceDate": "04/05/2019",
     "serviceOrderType": 63,
     "serviceOrderDesc_": "MISCELLANEOUS SERVICE",
-    "message": "2019-02-16 RANGE DISCONNECTION",
+    "message": "2/6/19 RANGE DISCONNECTION",
     "sub_Total": "100.00",
     "taxes": "0.00",
     "total": "100.00",
@@ -136,7 +136,7 @@
     "Posted": true,
     "Inactivated": "N",
     "InactiveUser": "",
-    "InactiveDate": "",
-    "InactiveTime": ""
+    "InactiveDate": "00/00/0000",
+    "InactiveTime": "00:00:00"
   }
 ]

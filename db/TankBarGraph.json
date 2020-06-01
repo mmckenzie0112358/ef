@@ -2,7 +2,7 @@
   {
     "index": 0,
     "TankNumber": 13065,
-    "Month": "J",
+    "Month": "January",
     "PriorYear": 300,
     "LastYear": 150,
     "CurrentYear": 100
@@ -10,7 +10,7 @@
   {
     "index": 1,
     "TankNumber": 13065,
-    "Month": "F",
+    "Month": "February",
     "PriorYear": 400,
     "LastYear": 200,
     "CurrentYear": 150
@@ -18,7 +18,7 @@
   {
     "index": 2,
     "TankNumber": 13065,
-    "Month": "M",
+    "Month": "March",
     "PriorYear": 200,
     "LastYear": 100,
     "CurrentYear": 50
@@ -26,7 +26,7 @@
   {
     "index": 3,
     "TankNumber": 13065,
-    "Month": "A",
+    "Month": "April",
     "PriorYear": 200,
     "LastYear": 150,
     "CurrentYear": 0
@@ -34,7 +34,7 @@
   {
     "index": 4,
     "TankNumber": 13065,
-    "Month": "M",
+    "Month": "May",
     "PriorYear": 0,
     "LastYear": 50,
     "CurrentYear": 20
@@ -42,7 +42,7 @@
   {
     "index": 5,
     "TankNumber": 13065,
-    "Month": "J",
+    "Month": "June",
     "PriorYear": 600,
     "LastYear": 0,
     "CurrentYear": 2
@@ -50,7 +50,7 @@
   {
     "index": 6,
     "TankNumber": 13065,
-    "Month": "J",
+    "Month": "July",
     "PriorYear": 0,
     "LastYear": 200,
     "CurrentYear": 50
@@ -58,7 +58,7 @@
   {
     "index": 7,
     "TankNumber": 13065,
-    "Month": "A",
+    "Month": "August",
     "PriorYear": 5,
     "LastYear": 300,
     "CurrentYear": 20
@@ -66,7 +66,7 @@
   {
     "index": 8,
     "TankNumber": 13065,
-    "Month": "S",
+    "Month": "September",
     "PriorYear": 0,
     "LastYear": 0,
     "CurrentYear": 100
@@ -74,7 +74,7 @@
   {
     "index": 9,
     "TankNumber": 13065,
-    "Month": "O",
+    "Month": "October",
     "PriorYear": 200,
     "LastYear": 250,
     "CurrentYear": 150
@@ -82,7 +82,7 @@
   {
     "index": 10,
     "TankNumber": 13065,
-    "Month": "N",
+    "Month": "November",
     "PriorYear": 250,
     "LastYear": 150,
     "CurrentYear": 175
@@ -90,7 +90,7 @@
   {
     "index": 11,
     "TankNumber": 13065,
-    "Month": "D",
+    "Month": "December",
     "PriorYear": 400,
     "LastYear": 300,
     "CurrentYear": 200

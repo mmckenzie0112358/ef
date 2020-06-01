@@ -2,7 +2,7 @@
   {
     "index": 0,
     "TankNumber": 13065,
-    "Month": "Jan",
+    "Month": "J",
     "PriorYear": 1000,
     "LastYear": 500,
     "CurrentYear": 700
@@ -10,7 +10,7 @@
   {
     "index": 1,
     "TankNumber": 13065,
-    "Month": "Feb",
+    "Month": "F",
     "PriorYear": 900,
     "LastYear": 800,
     "CurrentYear": 1000
@@ -18,7 +18,7 @@
   {
     "index": 2,
     "TankNumber": 13065,
-    "Month": "Mar",
+    "Month": "M",
     "PriorYear": 500,
     "LastYear": 600,
     "CurrentYear": 450
@@ -26,7 +26,7 @@
   {
     "index": 3,
     "TankNumber": 13065,
-    "Month": "Apr",
+    "Month": "A",
     "PriorYear": 200,
     "LastYear": 250,
     "CurrentYear": 0
@@ -34,7 +34,7 @@
   {
     "index": 4,
     "TankNumber": 13065,
-    "Month": "May",
+    "Month": "M",
     "PriorYear": 0,
     "LastYear": 100,
     "CurrentYear": 50
@@ -42,7 +42,7 @@
   {
     "index": 5,
     "TankNumber": 13065,
-    "Month": "June",
+    "Month": "J",
     "PriorYear": 50,
     "LastYear": 0,
     "CurrentYear": 2
@@ -50,7 +50,7 @@
   {
     "index": 6,
     "TankNumber": 13065,
-    "Month": "July",
+    "Month": "J",
     "PriorYear": 0,
     "LastYear": 50,
     "CurrentYear": 50
@@ -58,7 +58,7 @@
   {
     "index": 7,
     "TankNumber": 13065,
-    "Month": "Aug",
+    "Month": "A",
     "PriorYear": 55,
     "LastYear": 200,
     "CurrentYear": 20
@@ -66,7 +66,7 @@
   {
     "index": 8,
     "TankNumber": 13065,
-    "Month": "Sep",
+    "Month": "S",
     "PriorYear": 200,
     "LastYear": 300,
     "CurrentYear": 100
@@ -74,7 +74,7 @@
   {
     "index": 9,
     "TankNumber": 13065,
-    "Month": "Oct",
+    "Month": "O",
     "PriorYear": 400,
     "LastYear": 450,
     "CurrentYear": 350
@@ -82,7 +82,7 @@
   {
     "index": 10,
     "TankNumber": 13065,
-    "Month": "Nov",
+    "Month": "N",
     "PriorYear": 850,
     "LastYear": 750,
     "CurrentYear": 975
@@ -90,7 +90,7 @@
   {
     "index": 11,
     "TankNumber": 13065,
-    "Month": "Dec",
+    "Month": "D",
     "PriorYear": 950,
     "LastYear": 600,
     "CurrentYear": 1000

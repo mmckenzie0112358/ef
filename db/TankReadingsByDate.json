@@ -7,8 +7,8 @@
     "tankCapacity": 120,
     "tankName": "HUBRIS",
     "kFactor": "0.05",
-    "holdReleaseDate": "00/00/00",
-    "holdDate": "00/00/00",
+    "holdReleaseDate": "",
+    "holdDate": "",
     "holdK_FactorCalculations": "N",
     "dailyUse": 0
   },
@@ -20,8 +20,8 @@
     "tankCapacity": 400,
     "tankName": "D12",
     "kFactor": "0.60",
-    "holdReleaseDate": "00/00/00",
-    "holdDate": "00/00/00",
+    "holdReleaseDate": "",
+    "holdDate": "",
     "holdK_FactorCalculations": "y",
     "dailyUse": 0
   }

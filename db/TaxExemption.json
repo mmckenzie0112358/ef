@@ -9,8 +9,8 @@
     "useCode": "",
     "taxGroupId": "20 County Tax",
     "aud_ExemptionPercent": "0.00",
-    "aud_EffectiveDate": "03/27/19",
-    "aud_TerminationDate": "09/30/22",
+    "aud_EffectiveDate": "2019-03-27",
+    "aud_TerminationDate": "2022-09-23",
     "aud_CertificateNumber": 31008643,
     "aud_Comments": ""
   },
@@ -24,8 +24,8 @@
     "useCode": "1",
     "taxGroupId": "10 State Sales Tax",
     "aud_ExemptionPercent": "10.00",
-    "aud_EffectiveDate": "08/24/16",
-    "aud_TerminationDate": "09/30/22",
+    "aud_EffectiveDate": "2019-03-27",
+    "aud_TerminationDate": "2022-09-23",
     "aud_CertificateNumber": 320411767,
     "aud_Comments": "Governmental Organization - No expiry date for Exempt Certificate"
   },
@@ -39,8 +39,8 @@
     "useCode": "2",
     "taxGroupId": "11 State Sales Tax Service",
     "aud_ExemptionPercent": "7.00",
-    "aud_EffectiveDate": "05/27/19",
-    "aud_TerminationDate": "10/30/22",
+    "aud_EffectiveDate": "2019-03-27",
+    "aud_TerminationDate": "2022-09-23",
     "aud_CertificateNumber": 7672772,
     "aud_Comments": "Resale Certificate on File"
   },
@@ -54,8 +54,8 @@
     "useCode": "",
     "taxGroupId": "20 County Tax",
     "aud_ExemptionPercent": "0.00",
-    "aud_EffectiveDate": "09/23/16",
-    "aud_TerminationDate": "09/30/23",
+    "aud_EffectiveDate": "2019-03-27",
+    "aud_TerminationDate": "2022-09-23",
     "aud_CertificateNumber": 472015559,
     "aud_Comments": ""
   },
@@ -69,8 +69,8 @@
     "useCode": "7",
     "taxGroupId": "20 County Tax",
     "aud_ExemptionPercent": "9.00",
-    "aud_EffectiveDate": "01/21/18",
-    "aud_TerminationDate": "06/30/20",
+    "aud_EffectiveDate": "2019-03-27",
+    "aud_TerminationDate": "2022-09-23",
     "aud_CertificateNumber": 33053761,
     "aud_Comments": "No comment"
   }

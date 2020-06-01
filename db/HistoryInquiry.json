@@ -1,7 +1,7 @@
 [
   {
     "index": 0,
-    "historyDate": "02/10/19",
+    "historyDate": "2019-02-10",
     "driverNumber": 2,
     "journalNumber": 23170,
     "ticketNumber": 70229,
@@ -19,7 +19,7 @@
   },
   {
     "index": 1,
-    "historyDate": "05/16/19",
+    "historyDate": "2019-02-10",
     "driverNumber": 1,
     "journalNumber": 23176,
     "ticketNumber": 70186,
@@ -37,7 +37,7 @@
   },
   {
     "index": 2,
-    "historyDate": "01/20/19",
+    "historyDate": "2019-02-10",
     "driverNumber": 1,
     "journalNumber": 23170,
     "ticketNumber": 70229,
@@ -55,7 +55,7 @@
   },
   {
     "index": 3,
-    "historyDate": "01/16/19",
+    "historyDate": "2019-02-10",
     "driverNumber": 0,
     "journalNumber": 23170,
     "ticketNumber": 70229,
@@ -73,7 +73,7 @@
   },
   {
     "index": 4,
-    "historyDate": "20/01/19",
+    "historyDate": "2019-02-10",
     "driverNumber": 0,
     "journalNumber": 23170,
     "ticketNumber": 70229,

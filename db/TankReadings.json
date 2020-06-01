@@ -1,7 +1,7 @@
 [
   {
     "index": 0,
-    "tankReadingDate": "12/13/17",
+    "tankReadingDate": "2017-12-30",
     "oldDegreeDayReading": 0,
     "newDegreeDayReading": 848,
     "gallonsDelivered": 101.0,
@@ -16,7 +16,7 @@
   },
   {
     "index": 1,
-    "tankReadingDate": "04/16/17",
+    "tankReadingDate": "2017-04-16",
     "oldDegreeDayReading": 0,
     "newDegreeDayReading": 700,
     "gallonsDelivered": 101.0,
@@ -31,7 +31,7 @@
   },
   {
     "index": 2,
-    "tankReadingDate": "12/01/18",
+    "tankReadingDate": "2018-12-01",
     "oldDegreeDayReading": 150,
     "newDegreeDayReading": 200,
     "gallonsDelivered": 125.0,
@@ -46,7 +46,7 @@
   },
   {
     "index": 3,
-    "tankReadingDate": "08/23/16",
+    "tankReadingDate": "2016-08-23",
     "oldDegreeDayReading": 20,
     "newDegreeDayReading": 700,
     "gallonsDelivered": 90.0,
@@ -61,7 +61,7 @@
   },
   {
     "index": 4,
-    "tankReadingDate": "01/26/19",
+    "tankReadingDate": "2019-01-26",
     "oldDegreeDayReading": 0,
     "newDegreeDayReading": 848,
     "gallonsDelivered": 101.0,

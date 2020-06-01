@@ -7,7 +7,7 @@
     "aud_TankSerialNumber": "D34T56J7",
     "aud_TicklerLocation": "37",
     "aud_TicklerType": "Memo",
-    "aud_TicklerRequestedBy": "Tim",
+    "aud_TicklerRequestedBy": "",
     "aud_TicklerDueDate": "2017-10-21",
     "aud_TicklerPriority": 2,
     "aud_TicklerCompleted": true,
@@ -16,8 +16,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Ashley",
-    "aud_TicklerTimeEntered": "10:42:52",
+    "aud_UserIDSecurity": "Ashley 12/23/19 10:38:56",
     "id": 0
   },
   {
@@ -28,7 +27,7 @@
     "aud_TankSerialNumber": "FREGTYJ775",
     "aud_TicklerLocation": "83",
     "aud_TicklerType": "Memo",
-    "aud_TicklerRequestedBy": "Tim",
+    "aud_TicklerRequestedBy": "",
     "aud_TicklerDueDate": "2019-04-17",
     "aud_TicklerPriority": 0,
     "aud_TicklerCompleted": true,
@@ -37,8 +36,7 @@
     "Name": "STEVEN'S BODY SHOP",
     "aud_TicklerMessage": "06/12 Kevin picked up 1-547, will return in the next 10 days.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Michael",
-    "aud_TicklerTimeEntered": "08:27:23",
+    "aud_UserIDSecurity": "Michael 12/20/19 09:13:22",
     "id": 1
   },
   {
@@ -49,7 +47,7 @@
     "aud_TankSerialNumber": "D34G65JYUY",
     "aud_TicklerLocation": "26",
     "aud_TicklerType": "Memo",
-    "aud_TicklerRequestedBy": "Tim",
+    "aud_TicklerRequestedBy": "",
     "aud_TicklerDueDate": "2018-02-20",
     "aud_TicklerPriority": 0,
     "aud_TicklerCompleted": true,
@@ -58,8 +56,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "Called William, he paid full amount with additional to cover overage.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Ashley",
-    "aud_TicklerTimeEntered": "12:11:52",
+    "aud_UserIDSecurity": "Ashley 11/21/19 11:31:02",
     "id": 2
   },
   {
@@ -70,7 +67,7 @@
     "aud_TankSerialNumber": "CEWG667VWQ",
     "aud_TicklerLocation": "01",
     "aud_TicklerType": "Memo",
-    "aud_TicklerRequestedBy": "Tim",
+    "aud_TicklerRequestedBy": "",
     "aud_TicklerDueDate": "2016-07-14",
     "aud_TicklerPriority": 0,
     "aud_TicklerCompleted": true,
@@ -79,8 +76,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "Left msg with mechanic, leak is still not fixed.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Chaz",
-    "aud_TicklerTimeEntered": "09:11:28",
+    "aud_UserIDSecurity": "Chaz 11/19/19 10:19:35",
     "id": 3
   },
   {
@@ -100,8 +96,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "01/31 Kevin cleaned and advised on status of credit default.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Chaz",
-    "aud_TicklerTimeEntered": "12:12:01",
+    "aud_UserIDSecurity": "Chaz 11/10/19 11:20:21",
     "id": 4
   },
   {
@@ -112,7 +107,7 @@
     "aud_TankSerialNumber": "23534UYHER",
     "aud_TicklerLocation": "95",
     "aud_TicklerType": "Service",
-    "aud_TicklerRequestedBy": "Tim",
+    "aud_TicklerRequestedBy": "",
     "aud_TicklerDueDate": "2019-05-16",
     "aud_TicklerPriority": 0,
     "aud_TicklerCompleted": true,
@@ -121,8 +116,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "3/13 mike leak & soap tested system found no leak & all looks good could not get inside.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Ashley",
-    "aud_TicklerTimeEntered": "11:32:20",
+    "aud_UserIDSecurity": "Ashley 11/10/19 10:20:58",
     "id": 5
   },
   {
@@ -142,8 +136,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "Customer called and paid lower amount, will continue on payment plan.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Michael",
-    "aud_TicklerTimeEntered": "10:42:52",
+    "aud_UserIDSecurity": "Michael 11/01/19 08:42:12",
     "id": 6
   },
   {
@@ -163,8 +156,7 @@
     "Name": "1ST CLASS AUTO SALES",
     "aud_TicklerMessage": "5/16 mike leak & soap tested system found many leaks & all looks good could not get inside.",
     "phone": "(555)536-9001",
-    "aud_UserIDSecurity": "Ashley",
-    "aud_TicklerTimeEntered": "10:42:52",
+    "aud_UserIDSecurity": "Ashley 10/31/19 12:20:31",
     "id": 7
   }
 ]

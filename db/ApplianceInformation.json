@@ -1,6 +1,7 @@
 [
   {
     "index": 0,
+    "rrn": 74590392,
     "aud_DivisionNumber": 1,
     "aud_ApplianceType": "H",
     "tankSerialNumber": 62346234,
@@ -21,6 +22,7 @@
   },
   {
     "index": 1,
+    "rrn": 5740321,
     "aud_DivisionNumber": 1,
     "aud_ApplianceType": "R",
     "tankSerialNumber": 5437546,
@@ -41,6 +43,7 @@
   },
   {
     "index": 2,
+    "rrn": 85034211,
     "aud_DivisionNumber": 1,
     "aud_ApplianceType": "W",
     "tankSerialNumber": 86354385,
@@ -61,6 +64,7 @@
   },
   {
     "index": 3,
+    "rrn": 87034925,
     "aud_DivisionNumber": 1,
     "aud_ApplianceType": "W",
     "tankSerialNumber": 79658908,

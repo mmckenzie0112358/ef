@@ -21,6 +21,10 @@
     "address1": "123 Main St",
     "city1": "Fishers",
     "state1": "IN",
-    "directions": "Enter through basement"
+    "directions": "Enter through basement",
+    "e_orT": "tank",
+    "linkedToEquipmentOrTankR": 437290,
+    "description": "120,00 Glns/ Type P",
+    "dateOfLastServicePerformed": "2001-01-01"
   }
 ]

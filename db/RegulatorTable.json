@@ -6,8 +6,7 @@
     "description1": 3,
     "dateManufactured": "2003-12-13",
     "businessOwns": true,
-    "comment": "Test comment",
-    "stage_LinkTypeS_": 1
+    "comment": "Test comment"
   },
   {
     "index": 1,
@@ -16,8 +15,7 @@
     "description1": 4,
     "dateManufactured": "2003-12-13",
     "businessOwns": false,
-    "comment": "This regulator is in good condition",
-    "stage_LinkTypeS_": 2
+    "comment": "This regulator is in good condition"
   },
   {
     "index": 2,
@@ -26,7 +24,6 @@
     "description1": 9,
     "dateManufactured": "2012-12-13",
     "businessOwns": true,
-    "comment": "Needs repair",
-    "stage_LinkTypeS_": 1
+    "comment": "Needs repair"
   }
 ]

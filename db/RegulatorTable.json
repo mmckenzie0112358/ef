@@ -5,7 +5,7 @@
     "description": "HHGregg",
     "description1": 3,
     "dateManufactured": "2003-12-13",
-    "businessOwns": true,
+    "businessOwns": "Y",
     "comment": "Test comment"
   },
   {
@@ -14,7 +14,7 @@
     "description": "Sony",
     "description1": 4,
     "dateManufactured": "2003-12-13",
-    "businessOwns": false,
+    "businessOwns": "N",
     "comment": "This regulator is in good condition"
   },
   {
@@ -23,7 +23,7 @@
     "description": "QVS",
     "description1": 9,
     "dateManufactured": "2012-12-13",
-    "businessOwns": true,
+    "businessOwns": "Y",
     "comment": "Needs repair"
   }
 ]

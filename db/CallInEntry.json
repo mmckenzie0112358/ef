@@ -772,7 +772,7 @@
     "v_TankPriceFromTpr": 0,
     "aud_RRN": 150880,
     "aud_DatePosted": "",
-    "aud_Pending": "",
+    "aud_Pending": "Y",
     "aud_Name": "Williams,Mark",
     "aud_TankRRN": 51796,
     "_TruckNumber": 0,

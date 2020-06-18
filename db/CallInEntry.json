@@ -389,7 +389,7 @@
     "aud_TicketPrinted": false,
     "aud_CallInDate": "2019-01-23",
     "aud_CallInTime": "14:47:38",
-    "aud_ImmediateFill": "",
+    "aud_ImmediateFill": "N",
     "aud_CustomerNumber": 0,
     "id": 3672244229
   },
@@ -586,7 +586,7 @@
     "aud_TicketPrinted": false,
     "aud_CallInDate": "2020-01-23",
     "aud_CallInTime": "12:47:38",
-    "aud_ImmediateFill": "",
+    "aud_ImmediateFill": "Y",
     "aud_CustomerNumber": 0,
     "id": 3672244229
   },
@@ -783,7 +783,7 @@
     "aud_TicketPrinted": false,
     "aud_CallInDate": "2020-07-04",
     "aud_CallInTime": "06:39:22",
-    "aud_ImmediateFill": "",
+    "aud_ImmediateFill": "N",
     "aud_CustomerNumber": 0,
     "id": 3672244229
   }
